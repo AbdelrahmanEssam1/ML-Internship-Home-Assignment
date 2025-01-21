@@ -1,0 +1,108 @@
+
+
+SUMMARY:
+
+Over 15 years diverse IT skill set experience which includes System Administration, Desktop Support, Helpdesk, Network and Field Support of end - user workstations within Windows 10, 7, XP, NT, 2000, Vista, Citrix, Unix, Novell and AS/400. Proficiency on installing, analyzing, configuring, troubleshooting and resolving a variety of software and application support which includes SaaS Office 365, Outlook, GroupWise, imaging, deployment, migrating, upgrading a wide variety of hardware. Includes remote control support and network infrastructure support within heterogeneous TCP/IP LAN/WAN, Wi-Fi network environment, POS systems and peripherals.
+Experience on Active Directory, Mobile Iron, SharePoint, Umbraco CMS and MS Exchange, User account provisioning
+Experience with VPN, Single Sign On, A/V systems, Web certificates, RDP, LogMeIn, TeamViewer, JoinedMe, Heat and Skype
+Experience with mobile devices which includes Blackberry server, Bitlocker, Blackberry, Palm Treo, Android, Apple iPhone, iPad
+Mac, Safari, Umbraco web content managing/editing; Confidential, IBM POS hardware and peripherals including portable ATM devices.
+Multiple ticketing system experience in Remedy, Heat, Salesforce, Footprints, Kana, Track-IT
+Familiarity with SCCM, Unix, Linux, Oracle/Citrix based clients, Power Shell, VMWare, Slack, Python, SaaS, MS Team, Service Now
+Asset technology management and maintenance.
+
+TECHNICAL SKILLS SUMMARY:
+Hardware:  SD -WAN Cloudgenix, Cisco VOIP 7000/8000 series, Cisco switch/routers/hubs, Catalyst 3650, Linksys, Dell, IBM, HP, NetgearNortel, HP LH NetServer, PowerEdge, PowerConnect, Blade servers, Pro-Com CD-ROM Tower Server, UPS, Sharp, Epson, LexmarkHP Laser Jets MFP, Xerox/HP/Canon MFP, barcode readers, Fujitso scanners, Infocus Mondopad Video Tele-Conference, Cisco Polycom, portable ATM devices, Apple iPhone, Android Samsung, Apple iPad, Palm Treo, Blackberry
+Networking:  Ethernet LAN/WAN, TCP/IP, IPX/SPX, Wi-Fi, Windows Server 2012 R2, Active Directory, Confidential, VLAN, Token Ring, DHCP, DNSIMAP, LDAP, POP, SMTP, SSL, DSL, RDP, VoIP, Cisco/Pulse VPN, WEP/WPA, WAP, Citrix, Confidential /IBM Point Of Sale systems (POS)Cabling, RJ45 termination
+Software:  WINDOWS 10, 7, XP, 2000, MS Office Suite, Active Disk, Active Client, MS Outlook 2016, OWA, Bitlocker, Imprivata and LincPass Single Sign On (SSO), Skype for Business, Umbraco CMS, SharePoint, Pulse, Cisco VPN, Adobe CS, Mobile IronSalesforce, Active Boot, Visio, AutoCAD, NX Unigraphics, Solidworks, Unix View Now, Oracle, SAP, SQL, Webroot, McAfee, Norton, eTrustWebEx, NetMeeting, VNC, TeamViewer, LogMeIn, Heat, Remedy, Track-It, Kana, MS Explorer, Mozilla, Opera, Chrome, Safari, Novell GroupWise, UltraBac, ArcServe, Utimaco Safeguard, McAfee /Symantec, Checkpoint, Norton Ghost, Web Jet Admin, LanMaster, EpicAutoTime, MS Lync 2013
+PROFESSIONAL EXPERIENCE:
+Network Technician
+Confidential, Lawrence, PA
+Responsibilities:
+
+Servicing Cisco network equipment on client’s site focusing on layer 1 and layer 2 troubleshooting such as on router, switch, hubs or patch panels, telco router/modems, smart jacks, demarc; servicing respond level 2 or level 3 incidents including on;
+Cloudgenix SD WAN, site survey, iPads, telco jacks, desktop H/W support, memory upgrades, Cat6 cable pulls, RJ45 terminations, Cisco VOIP series refresh troubleshooting and installation or LAN/ WAN connectivity troubleshooting.
+Includes connectivity issues with WAPS, ATM Kiosk, portable payment terminals and debit card readers for Bank of America and its branches throughout SF Bay Area.
+Provided preventative maintenance program schedule for healthcare client with their HP and Xerox network MFP printers.
+Manage the client's inventory levels at their facilities. Perform restocking of assigned company warehouses.
+Manage completion of page count collection during monthly billing cycle.
+Complete product delivery as service tickets are dispatched. Maintain asset warehouse inventory, management and maintenance.
+
+IT Specialist
+Confidential, Albany, CA
+Responsibilities:
+
+Provided a variety of technical on-site end-user, network and infrastructure support as well as for enterprise-wide technical end-user support for the Confidential.
+Utilized Active Directory to add endpoint devices to domain and configure, triage, resolve or update ticket issues on issues such as user account set-up on security, remote access, eAuth login, set/recreate password membership, create distribution list, Lincpass SSO issues, elevate privilege, move, unlock, activate or disable users.
+Assisted in GPO updates and implementation.
+Utilized Mobile Iron for provisioning and to facilitate security settings on iPhone and Android mobile devices.
+Configure, install, analyze, evaluate, test and resolve a variety of Windows 7 and Windows 10 applications, including Office 365, Pulse remote VPN, web certificate, intranet, internet or network connectivity issues, email, network printing including Dell hardware component issues.
+Configured laptops for Windows imaging utilizing Active Boot Disk. SharePoint and Umbraco CMS. Test VTC IP/SIP connectivity using Mondopad with Cisco polycom devices.
+Utilized Salesforce ticketing platform to triage, troubleshoot, resolve, update or escalated level 2 tickets.
+Resolve bitlocker encryption issue. Utilized Skype, ATT Connect and WebEx.
+
+Break/Fix Printer Tech
+Confidential, Livermore, CA 
+Responsibilities:
+
+On-site break/fix printer technician for managed Xerox printers within Confidential Lab facilities.
+Utilized Footprints ticketing platform for monitoring of managed network printers and ticket resolution on errors, alerts and ink levels.
+Troubleshooting and resolution of error messages.
+Replaced fusers, transfer rollers, transfer belts, ink cartridges including asset management and maintenance of consumable on site inventory.
+
+Desktop Support/Admin
+Confidential, Suisun City, CA 
+Responsibilities:
+
+On site desktop /administration support to level III for over 300 employees on Government aerospace contracts within Windows 7XP, Dell, HP and Cisco environment per CSC SLA. Responsibilities includes utilizing Active Directory, Confidential system, RDP; BMC Remedy Help Desk, BMC Confidential for Service Request and Move/Add/Change, providing workstation support with various HW/SW installation, configuration, resolution and maintenance; support end-users after domain migration; resolution of LAN, WAN, VPN and WIFI connectivity issue up to IDF patch/switch troubleshooting; shared file/drive, web or wireless certificate and HD encryption issues; imaging and reimaging per corporate std; user data migration, deployment and resolution research; installation and configuration of Citrix and Oracle client software; followed SOP on IT asset inventory, management and maintenance; provided recommendation and phone support.
+
+Customer Engineer
+Confidential, Oakland / East Bay, CA
+Responsibilities:
+
+Provided support, installation, configuration, maintenance and repairs of Confidential /IBM Point of Sale System, PC, Printers, Self-Checkouts
+SCO, ATM/MCX Kiosk, Debit Readers and hand-held devices within Windows 7/XP. Performed within Service Level Agreement (SLA)
+Analyze and corrected technical problems on equipment within assigned customer accounts; perform periodic preventive maintenance routines; installs or modifications to equipment including overhauls and maintenance repair; perform required modular swaps and unit replacements as needed.
+Manage customer incidents, respond to a customer call, problem identification and escalation
+
+IT Technical Analyst
+Confidential, Oakland, CA 
+Responsibilities:
+
+Testing and validation of Epic application.
+Troubleshooted Epic printing, wireless connectivity, barcode readers, Zebra label printers and Fujitsu desktop scanners in a HP, Windows XP and Citrix environment.
+Install, configure, validated and updated additional software such as Imprivata SSO within hospital environments.
+Assembly/ Deployment of wireless computer carts and label printers
+
+IT Service Technician
+Confidential, Stockton, CA
+Responsibilities:
+
+Provided desktop support to end-users with Windows XP Operating System and Dell hardwares within a hospital environment.
+Supports, installs and maintain workstation desktop and laptops, local area networks, operating systems, software, and related IT sanctioned peripherals, including troubleshooting to cisco hubs, switches.
+Utilized McAfee Endpoint Encryption includes BMC Remedy for ticketing, VPN configuration and some troubleshooting of Citrix client applications.
+Maintained IT asset inventory.
+
+PC Technician
+Confidential, San Francisco, CA
+Responsibilities:
+
+Provided various technical support which includes computer and peripheral de-installs, re-installs, testing, verification and
+Configuration on LCD monitors and HP MFP printers; ATM anti-skimming card reader installs and configuration.
+
+Field Service Technician
+Confidential, Austin, TX
+Responsibilities:
+
+Management and administration of over 250 HP Multi- Function Printers on-site and for over 500 employees.
+Installation and configuration of TCP/IP, SMTP/LDAP, fax configurations, including firmware upgrades.
+Provided first call resolution or investigated problems and maintained replenishment of printer consumables.
+Utilized Web Jet Admin monitoring for device communication errors, network connectivity issues, paper jams and cartridge levels
+
+Desktop Technician
+Confidential, San Francisco, CA
+Responsibilities:
+
+Provided desktop and phone support for over 500 end-users on Dell Inspiron and Latitudes notebooks; utilized Remedy and Norton Ghost for batch imaging; pxe boot; workstation configuration; laptop hardware replacement; software conflict troubleshooting and resolution. McAfee SafeBoot encryption and Cisco VPN client installation.
+Wi-Fi configuration and troubleshooting; printing and network connectivity issues; network drive and printer mappings. Maintain asset inventory.
+ 

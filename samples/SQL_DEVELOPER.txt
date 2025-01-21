@@ -1,0 +1,78 @@
+
+
+SUMMARY
+
+Over 7.5 years of expertise in UNIX shell scripting and Oracle PL/SQL Programming.
+Expert in Query analysis, performance tuning and optimization with strong hands - on expertise on PLSQL development of packages, stored procedures, functions and triggers.
+Extensively worked on Backend Programming using PL/SQL Stored Procedures, Functions, Packages, Database triggers for Oracle 10g/ 9i/8i, and also SQL queries and scripts.
+Specialized in customization, Interfaces, extensions etc.
+Experience working on Oracle 9i, 10g and 11g database.
+Thrives when managing complex projects and working to tight deadlines.
+Handled multiple projects for various clients in US and other places across the Globe.
+Possess Strong analytical and excellent Communication, planning and organizational skills.
+Possess Strong commitment to team environment with the ability to contribute expertise and follow leadership directives.
+Leveraged diverse, cross functional teams in the fulfillment of corporate productivity.
+Ability to lead change, be personally adaptable, & perform well under pressure.
+
+TECHNICAL SKILLS
+Database:  Oracle 9i/10g/11g, MySQL, MS Access, DB2 8.1, 9.5
+Database Tools:  TOAD, Oracle Sql Developer, SQL Plus, PL SQL Developer, SQL Monitoring, SQL Loader.
+Reporting Tools:  Cognos, Qlikview
+Operating Systems:  UNIX (HP - UX), Solaris 9, 10, AIX 5.3, 5.4, SuSe Linux 10.2, Redhat Linux 5.4, Windows XP, server 2003 and server 2008
+Languages:  Java, C/C++, Shell scripting, perl, SSH
+Web Programming:  Java, Servlet, JSP, JDBC, Java Scripts, HTML, DHTML, CSS, XSLT, XML
+WebServers/AppServers:  Tomcat 5.0, Websphere application server 5, 6, 7, IIS, IHS
+Development Environment:  Eclipse, IRAD
+Version control Tools:  Dimensions, MS-VSS, Clearcase
+Other Products:  Vignette 7.3, Documentum 5.3, 6,5, FAST search for SharePoint, IRM 3.4, Confidential ClearQuest, Rational Team Concert, Infinys Rating and Billing,CA Siteminder, Solaris LDAP, MS-Active Directory, DNS
+PROFESSIONAL EXPERIENCE
+Confidential, MI 
+PL/SQL Developer
+Responsibilities:
+
+Enterprise Content Management (ECM) team is a group that manages the applications that are responsible for organizing and delivery of content on various Chrysler websites. ECM team is responsible for in house developed tools for UNIX server build and maintenance. It is also responsible for maintenance of five different vendor products
+Involved in LOGICAL and PHYSICAL Modeling for ECM environment
+Design, Develop and Implement SQL, PL/SQL procedures in Oracle and DB2
+Implement and Manage complex report/SQL Queries
+Oracle Query performance tuning using EXPLAINPLAN
+Performance Monitoring and enhancements of legacy reports
+Re-architect application to use advanced shell programming methods and batch programming. This enabled discovering 200 % more software products on remote hosts
+Design and develop UNIX Shell scripts and python scripts for execution on remote hosts using SSH connections
+Design and develop platform independent scripts in python, Perl and expect scripts for automatic software detection on thousands of Unix servers in the company
+Developed WMI and batch scripts for auto detection of software on windows server and Confidential platforms
+Data reconciliation and reporting for the discovered software products using scheduled shell scripts
+Manage preventive maintenance activities on the servers and software products to avoid system outage in product environment
+Design and architect enterprise content management servers using load balancers, ACE devices, web, application and database servers, middleware components like Siteminder, LDAP, WAS and IHS
+Design and implement content management and delivery services to various applications for Chrysler that includes test plan preparation, execution and performance analysis.
+Maintenance of various software products and their implementation environment which include managing server refreshes, DNS cutovers with Load Balancer Configurations, webservers, proxies, load balancers, databases and application servers.
+Assessed resource utilization on AIX, Solaris, Linux and Windows platforms using scheduled monitoring shell scripts
+Implemented elegant and easy-to-use hardware monitoring system to provide detailed reports
+
+Environment: Oracle SQL/PLSQL programming, DB2 PL/SQL programming, SQL loader, Qlikview, Cognos and SharePoint integration, SSH, AIX, Linux, Solaris, Bash, ksh, awk, sed scripting, Perl scripting, python and expect coding.
+Confidential
+Systems Engineer
+Responsibilities:
+
+Design billing and mediation services for corporate services provided by Confidential
+Develop Data stream Decoder scripts for AIX platform for mediation services for communication between the billing system and network devices
+Design test plans and use cases to ensure system functionality
+Configuration of the Rating and Billing software to bill real time usage of telecom services
+Customize the product using PL/SQL Procedures to make the product a best fit to user requirements
+Design and develop customized datamodel to meet the customer requirements
+Adhere to corporate SLAs while handling the support issues
+Developed the web interface to expose the billing system to the customers thus making it useable to end users before the complete OSS/BSS integrated environment is ready
+
+Environment: Oracle SQL/PLSQL programming, DB2 PL/SQL programming, Data stream Decoder (DSD) programming, Tivoli Server Monitoring, Geneva Rating and Billing.
+Confidential
+Systems Engineer
+Responsibilities:
+
+Configuration of the Rating and Billing software to bill real time usage of telecom services
+Customize the product using PL/SQL Procedures to make the product a best fit to user requirements
+Develop UNIX shell scripts and Data stream Decoders for real time rating and billing of the services offered by Confidential
+Coordination between various teams with in Confidential for end to end OSS/BSS solution testing.
+Used remedy and a custom trouble ticket tracking system for addressing customer issues
+Involved in troubleshooting the system to figure out the problem and root cause
+Worked with auditors to adhere to the SOX and other quality standards
+
+Environment: Oracle SQL/PLSQL programming, DB2 PL/SQL programming, Data stream Decoder (DSD) programming, Tivoli Server Monitoring, Geneva Rating and Billing. 

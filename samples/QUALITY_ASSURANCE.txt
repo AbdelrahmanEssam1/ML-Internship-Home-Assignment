@@ -1,0 +1,171 @@
+
+
+SUMMARY
+
+Software Quality Assurance Engineer 8 years of IT experience and over 7 years of experience using Mercury Interactive Tools (LoadRunner, Performance Center, QTP, WinRunner, Quality Center, and TestDirector).
+Areas of expertise are programming using ‘C’ like language in writing test scripts.
+Extensive knowledge of all phases of STLC(Software Testing Life Cycle)
+Expertise in developing Software Test Plans, Test Case Design, Test Scripts, Software Unit Testing, Integration Testing, Regression Testing and Stress Testing.
+Excellent experience in developing and maintaining robust test scripts according to the business specifications using C/C++.
+Extensively used Functional Libraries, Descriptive programming, and VB Scripting for QTP automation.
+Expertise in creating and enhancing Test Scripts in LoadRunner, QTP and WinRunner.
+Excellent experience in creating and executing various kinds of testing such as Benchmark, Endurance, Load and Stress testing Scenarios.
+Expertise in analyzing graphs results from various monitors and finding bottlenecks.
+Very Good Experience creating and executing WinRunner Test Scripts (TSL) and managing the data in Test Director.
+Excellent experience managing the whole testing process using Mercury Interactive’s Test Management tool TestDirector.
+Excellent experience working with many LoadRunner protocols and also troubleshooting them.
+Good Experience working in J2EE environment.
+Very Good experience working as a member in a team and also independently.
+Excellent communication, technical and interpersonal skills.
+
+TECHNICAL SKILLS
+Testing Automation Tools:  Performance Center 9.5, LoadRunner 9.5/8.0/7.5/7.0/6.5 , WinRunner 7.01/7.5/7.6 , TestDirector 5.0/6.2/7.0i/7.6/8.0, Quick Test Pro 6.5/8.0
+Test Languages:  Test Script Language (TSL).
+Monitoring Tools:  Sitescope, Fog Light, J2EE Diagnostics, CA Wily Introscope, DebugDiag, Process Explorer
+Development Tools:  ASP, Java, Java Applets, JSP, XML, Versata 5.5, Jreports 4.1 Build 5.1, VisualBasic 5.0 / 6.0, C++, C, Perl & SQL.
+Application Servers:  BEA WebLogic 4.5/5.1/6.1 SP2/7.01/8.1, IBM WebSphere 3.0/3.5/4.0/5.0/5.02 , Tomcat 3.1a/4.0 .
+Web Servers:  Internet Information Server (IIS) 4.0, Apache 2.1.4.
+Databases:  Oracle 8.0/8i, MS SQL Server 6.5/7.0/2000 , and MS Access 97/2000.
+Internet Tools:  Front Page 2000, Visual Interdev, HTML, and DHTML
+OS Expertise:  Windows 95/98/2000/XP/NT 4.0 Server & WorkStation.
+PROFESSIONAL EXPERIENCE
+Confidential, CA
+Performance Test Lead
+Responsibilities:
+
+Analyzed Business Requirements and constructed large number of test cases across various UI rich applications and based on the architectural requirements and documented the same in Quality Center.
+Interacted with the business analysts to understand user requirements and gather inputs for creating the test plan for testing user creation, transactions.
+Prepared Load test strategy following the specification requirements and System architecture.
+Responsible for setting up the entire Performance Testing Infrastructure including LoadRunner controllers, Performance center, Load Generators, Agents, Monitors, Sitescope and other Performance testing components
+Participated in all stages of Software Testing Life Cycle.
+Made many enhancements to the recorded script by parameterizing and correlating necessary values.
+Created an entire suite of Vuser scripts using LR VU Generator for multiple protocols like, WEB (HTTP/HTML), Web click & Script, Ajax Click and Script, SOAP, ODBC, SOAP, Java, Oracle DB, Web services etc.
+Involved in the updating the various components of the Performance Testing documents.
+Involved in developing external functions using C/C++.
+Involved in creating header files and CORR Files for various scripts for Application wide usage.
+Performed Extensive Correlation in a variety of environments for the recorded scripts in order to handle varying and Dynamic variables.
+Conducted various kinds of Benchmark testing, Baseline testing, Silo testing, volume testing, batch testing etc.
+Created a bunch of scripts exclusively for Data setup and data seeding for the AUT.
+Involved in setting up and performing IP Spoofing as part of the Load Test setup.
+Used Parameterization of the VuGen scripts to ensure the caching does not happen and emulate real time conditions.
+Involved in database testing of the client server apps via backend SQL Queries.
+Used Oracle statspack and Oracle Enterprise Manager (OEM) for monitoring the DB Activity and scanning for expensive queries.
+Used DebugDiag tool for taking periodical dumps and crashes for analysis after and during the load test.
+Used Process Explorer to see if any extraneous processes other than the Load Testing processes are running while the Load Test execution is in progress.
+Worked on HP Diagnostics in an effort to troubleshoot the bottlenecks across the Application infrastructure.
+Involved in creating and maintaining the Performance matrix for the baseline testing scenarios across various modules.
+Implemented performance test cases for testing the response time of the transactions, which covered both end to end test cases and test cases to test a specific functionality.
+Involved in the capacity planning of the various Applications Under test.
+Analyzed Performance Bottlenecks using LoadRunner Monitors, CA Wily Introscope, HP Sitescope,
+Worked on SOA based Applications.
+Used HP Performance center for scheduling, executing and monitoring Load Tests
+
+Environment: . HP LoadRunner 9.x, HP Performance Center 9.x, HP Quality Center 9.1, HP QTP 9.X, HP SiteScope 9.0, Wily Introscope, Java/J2EE,HP BAC, DebugDiag, Process Exploere,ANT, Make, Jira, .NET Diagnostics, .NET, ASP, Web Services, VB.NET, SQL, PL/SQL, AJAX, SiteScope 9.0, Oracle 10G RAC, VMWare
+Confidential, Lake Forest, CA
+Performance Test Lead/Onsite Coordinator
+Responsibilities:
+
+Analyzed Business Requirements and constructed large number of test cases across various UI rich applications and based on the architectural requirements and documented the same in Quality Center.
+Interacted with the business analysts to understand user requirements and gather inputs for creating the test plan for testing user creation, transactions.
+Prepared Load test strategy following the specification requirements and System architecture.
+Responsible for setting up the entire Performance Testing Infrastructure including LoadRunner controllers, Performance center, Load Generators, Agents, Monitors, Sitescope and other Performance testing components
+Participated in all stages of Software Testing Life Cycle.
+Made many enhancements to the recorded script by parameterizing and correlating necessary values.
+Created an entire suite of Vuser scripts using LR VU Generator for multiple protocols like, WEB (HTTP/HTML), Web click & Script, Ajax Click and Script, SOAP, ODBC, SOAP, Java, Oracle DB, Web services etc.
+Involved in the updating the various components of the Performance Testing documents.
+Involved in developing external functions using C/C++.
+Involved in creating header files and CORR Files for various scripts for Application wide usage.
+Performed Extensive Correlation in a variety of environments for the recorded scripts in order to handle varying and dynamic variables.
+Conducted various kinds of Benchmark testing, Baseline testing, Silo testing, volume testing, batch testing etc.
+Created a bunch of scripts exclusively for Data setup and data seeding for the AUT.
+Involved in setting up and performing IP Spoofing as part of the Load Test setup.
+Used Parameterization of the VuGen scripts to ensure the caching does not happen and emulate real time conditions.
+Involved in database testing of the client server apps via backend SQL Queries.
+Used Oracle statspack and Oracle Enterprise Manager (OEM) for monitoring the DB Activity and scanning for expensive queries.
+Used DebugDiag tool for taking periodical dumps and crashes for analysis after and during the load test.
+Used Process Explorer to see if any extraneous processes other than the Load Testing processes are running while the Load Test execution is in progress.
+Worked on HP Diagnostics in an effort to troubleshoot the bottlenecks across the Application infrastructure.
+Involved in creating and maintaining the Performance matrix for the baseline testing scenarios across various modules.
+Implemented performance test cases for testing the response time of the transactions, which covered both end to end test cases and test cases to test a specific functionality.
+Involved in the capacity planning of the various Applications Under test.
+Analyzed Performance Bottlenecks using LoadRunner Monitors, CA Wily Introscope, HP Sitescope,
+Worked on SOA based Applications.
+Used HP Performance center for scheduling, executing and monitoring Load Tests
+
+Environment: . HP LoadRunner 9.x, HP Performance Center 9.x, HP Quality Center 9.1, HP QTP 9.X, HP SiteScope 9.0, Wily Introscope, Java/J2EE,HP BAC, DebugDiag, Process Exploere,ANT, Make, Jira, .NET Diagnostics, .NET, ASP, Web Services, VB.NET, SQL, PL/SQL, AJAX, SiteScope 9.0, Oracle 10G RAC, VMWare
+Confidential, Los Angeles, CA
+Performance Test Lead
+Responsibilities:
+
+Responsible for setting up the Test lab environment including Installation, Troubleshooting, Configuration and connectivity.
+Involved in creating and updating the Performance test plan based on the inputs from various sources like Business users, Business Analysts, Development team etc.
+Worked with various business owners and users on arriving at SLAs for the AUT.
+Responsible for creating the test harness for the Load Testing activity
+Responsible for scripting the Load Test scenarios from scratch using a variety of protocols like WEB, SAP, ODBC, Citrix, Web Services etc
+Involved in developing external functions using C/C++.
+Responsible for creating and Load Test Scenarios and Scheduled the Load Tests from Performance Center.
+Responsible for creating the list of Application Monitors that needs to be added from Performance Center.
+Involved in monitoring test execution and system resource monitoring of different host machines.
+Used various Correlation and parameterization techniques as part of the Scripting process. Performed Load, Scalability, Volume and Performance testing across a variety of Apps.
+Used DebugDiag tool for taking periodical dumps and crashes for analysis after and during the load test.
+Used Process Explorer to see if any extraneous processes other than the Load Testing processes are running while the Load Test execution is in progress.
+Involved in capacity planning of the Application Infrastructure based on the business estimates.
+Analyzed Performance Bottlenecks using LoadRunner Monitors, CA Wily Introscope, HP Sitescope,
+Worked on SOA based Applications.
+Involved in discovering the Performance bottlenecks arising from the Performance tests and worked various teams in an effort to resolve issues, and developing performance testing best practices.
+Involved in write up of the Performance test results and presented the same to the Management and other audience.
+Debug, troubleshoot, and work with team members to find and fix software defects
+Used LoadRunner Analysis for generating a variety of graphs including Merging, Overlaying of the existing baseline results
+Facilitate various performance tweaking exercises and work with developers to resolve performance related bugs
+
+Environment: LoadRunner 8.x, Quality Center, WinRunner, Java/J2EE,.NET,Web Services, SAP ECC 5.0, SAP Enterprise Portal, J2EE, WebLogic, WebLoad, Wily Introscope, HP BAC,.NET, HP Sitescope, Oracle Windows 2000.
+Confidential
+Performance Test Lead
+Responsibilities:
+
+Closely worked with the Business Involved in writing Test Plans for the Functional testing and Performance testing.
+Involved in weekly meetings to update the process flow charts.
+Involved in setting up the Test Lab for testing on distributed clients with different O/S and browsers combination for Functional Testing and Performance Testing
+Performed Installation Test by deploying the Application on the Application Servers built
+Developed all the Vuser Scripts using the LoadRunner 7.0 Vugen.
+Involved in running the Scernarios for the generated Vuser Scripts in LoadRunner 7.0 Controller.
+Analyzed the Performance bottlenecks using LoadRunner 7.0 Analysis.
+Involved in the Stress Analysis based on the Performance Metrics
+System testing consists of three different strategies: individual test cases, integrated, regression and performance evaluation stages.
+Created the Automated test scripts using WinRunner for testing the compatibility of the application with different platforms.
+Involved in Functional, System, Integration, Performance, Load, Stress and Regression testing during various phases of the development using WinRunner, LoadRunner and TestDirector.
+Involved in creating Load Scenarios using Web based and Java based Protocol Vuser scripts.
+Executed Load scenarios with different Load options to check the impact of the application on the network & servers.
+Involved in monitoring test execution and system resource monitoring of different host machines.
+Executed SQL queries to check the data table updates after test execution.
+Executed the test scripts and saved the results in TestDirector.
+Created the test data for interpreting positive /Negative results during functional testing.
+Used the TestDirector as bug - tracking tool to centralize the bugs and also to follow up the bug status.
+Involved in Regression testing after each build release of the application.
+
+Environment: LoadRunner 7.8, J2EE, WebLogic,Java/J2EE, WinRunner 7.5, QuickTest Pro, Oracle Statspack, Oracle 8i, HTML, DHTML, Javascript, LDAP, IBM AIX 4.2, Wily Introscope, HP BAC, Windows NT.
+Confidential 
+Sr. Performance Engineer
+Responsibilities:
+
+Responsible for working closely worked with the State workers in understanding the business process and the estimated production usage of various Apps.
+Responsible for writing Test Plans for Performance testing.
+Responsible for conducting weekly review meetings and document various changes to the business process and any new enhancements.
+Responsible for installation of the LoadRunner tool on a variety of platforms.
+Created a number of LoadRunner Vuser Scripts using the LoadRunner 7.5 Vugen.
+Executed the LoadRunner scripts as part of the Health check and Infrastructure check using Mercury BAC
+Involved in running the Scenarios for the generated Vuser Scripts in LoadRunner 7.5 Controller.
+Analyzed the Performance bottlenecks using LoadRunner 7.50 Analysis.
+System testing consists of three different strategies: individual test cases, integrated, regression and performance evaluation stages.
+Created the Automated test scripts using WinRunner for testing the compatibility of the application with different platforms.
+Involved in Functional, System, Integration, Performance, Load, Stress and Regression testing during various phases of the development using WinRunner, LoadRunner and TestDirector.
+Executed Load scenarios with different Load options to check the impact of the application on the network & servers.
+Involved in monitoring test execution and system resource monitoring of different host machines.
+Executed SQL queries to check the data table updates after test execution.
+Executed the test scripts and saved the results in TestDirector.
+Created the test data for interpreting positive /Negative results during functional testing.
+Used the TestDirector as bug-tracking tool to centralize the bugs and also to follow up the bug status.
+Involved in Regression testing after each build release of the application.
+Involved in executing the Performance, Load and Stress Tests, Analyzing the reports and documentation of test results
+
+Environment: LoadRunner 7.0, WinRunner7.0, TestDirector7.0, Microsoft IIS, ASP, XML, Toad, COM+, Oracle 8i,Windows NT, 2000. 

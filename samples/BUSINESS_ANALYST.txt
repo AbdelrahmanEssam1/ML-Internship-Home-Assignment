@@ -1,0 +1,131 @@
+
+
+SUMMARY
+
+7+ years as a business analyst in sectors including finance, oil & gas, information technology, manufacturing and pharmaceuticals.
+5+ years as a CRM business analyst including Salesforce.com, Oracle Sales Cloud and CRM On - Demand
+Job specifications include gathering requirements and writing both business and functional requirement documents.
+Extensive knowledge and use of business analysis tools such as Microsoft Access, Microsoft Visio and Rational Requisite Pro
+Expertise in creating UML diagrams, Flowcharts, Screen Mockups and Systems Requirements Specifications, Test Plans
+Experience in supporting UAT and QA across multiple projects
+Great understanding of process identification, definitions, documentation, and project management methodologies including Waterfall, Agile, and Hybrid.
+Excellent communication skills and understanding of both business users and technical developers
+Expertise in analyzing current business process and suggesting enhancements
+Experienced in implementing quality assurance techniques and testing solutions
+Able to thrive in a fast paced, growth-oriented and time-critical environment.
+Worked on Salesforce.com and Oracle Fusion Services
+Ability to key in on solutions that that maximize project requirements and timelines
+
+TECHNICAL SKILLS
+CRM Tools:  Oracle CRM On-Demand, Salesforce.com, Oracle Sales Cloud, Oracle Business Intelligence Tools, Oracle BI Publisher
+Software Development Methodologies:  RUP, Waterfall, Agile
+Requirements Management Tools:  Requisite Pro, ClearQuest
+Visual Modeling tools:  MS Visio, Rose
+Languages:  Groovy, XML, JavaScript, SQL
+PROFESSIONAL EXPERIENCE
+Confidential, Fremont, CA
+Sr. CRM Business Analyst
+Responsibilities:
+
+Conducted interviews of key stakeholders to define overall scope and gather key requirements
+Converted and cleaned native customer data for mass import
+Created High level workflow diagrams using MS Visio
+Created custom object to track products, orders, and distribution hubs
+Coordinated with technical team to integrate automatic opportunity and order processing into CRM system
+Developed BRD and maintained progress over course of project
+Created a new model using various business and operational inputs, to provide daily, weekly and monthly forecasts to the specified volume
+Maintained key documents and project hours on MS SharePoint
+Designed custom objects and fields to track opportunity and quote line items
+Developed SQL queries for customer segmentation and customer retention programs and to perform data quality checks for UAT and BAT
+Designed high level reports and KPIs to track monthly changes
+Calculated trend analysis for monitored metric counts of activities
+Maintained client relationships for complete project lifecycle
+Adhoc reporting/programming for time sensitive data using Groovy scripting
+Created training documentation and was responsible for conducting UAT
+Extracted data using SQL and Oracle Reporter and all Microsoft Office applications Excel/Access/Word/Power Point/Visio/Project
+
+Environment: Microsoft Office, Oracle Fusion Applications, SharePoint, BI Publisher, MS Visio
+Confidential - Atlanta, GA
+Sr. CRM Business Analyst
+Responsibilities:
+
+Traveled to client location and conducted in person interviews and requirements gathering
+Created Use Cases using UML and managed the entire functional requirements life cycle using Rational Requisite Pro
+Assist the PM in evaluating the impact of changes on the organization and plan accordingly.
+Developed, gathered and edited business requirements, use cases, test cases and implementation plans for web integration and sales projects
+Wrote the business scope document and detailed BRD, created state diagrams, business process flows, defined enhanced business processes and recorded AS-IS & TO-BE states
+Used Agile methods in Scrum to have weekly client updates and testing with key users
+Integrated CRM access into Microsoft Outlook
+Collaborated with technical teams for Oracle Database integration
+Managed the requirements and created the requirements traceability matrix in Excel and shared on SharePoint
+Managed offshore developers and integration team by assigning tasks and tracking completion in conjunction with development lead
+Wrote and created procedure and user manuals based on designed applications and processes
+Involved in performing data analysis and identifying existing defects in production data, potential causes for the defects and solutions to fix them
+Created business rules and data glossary for the entire application
+Led bi-monthly training sessions with key users as a Train the trainer program
+
+Environment: MS Office, SharePoint, Groovy, Oracle Sales Cloud, BI Publisher, Oracle Database 11g, UML
+Confidential - San Francisco, CA
+Business Analyst
+Responsibilities:
+
+Oversaw implementation of Oracle Sales Cloud
+Performed interviews and meetings to determine actual project scope and best process practices
+Compile business requirements into functionality matrices and similar documents that outlined user business needs
+Business Process Development (BPD) for as is and future development and design utilizing UML/Visio
+Utilized several different methodologies including SDM Waterfall, and Lean Agile to successfully enhance and lead projects throughout the entire SDLC
+Designed and developed 20+ Oracle account receivable (AR) reports using business object Oracle business intelligence tools enhancing AR reporting capabilities
+Created a custom price list object on MS Visio as per client’s requirements
+Facilitated communication between technical leads and customer
+Develop dashboards/visualizations using Oracle BI Publisher for VP, Director and non-technical audience
+Assisted the PMO in project status, conducted status meetings and documented and reported results
+Completed data mapping, created new fields and updated existing field of the database in Business users
+Served as SharePoint Application main point of contact for corporate functions, enabling efficient team collaboration
+Assist in the development and delivery of tasks outlined in work plans, schedules, project estimates, resource plans, budgets, and status reports
+Used SQL, Business Objects, Tableau and Google Analytics to analyze online traffic and customer acquisition for Confidential ’s portal service
+Created and maintained test plans and was responsible for the creation of applicable use cases as a component of development specifications
+Wrote and optimized complex SQL queries to retrieve datasets across multiple database tables
+Tracked UAT responses and provided a fast resolution
+
+Environment: MS Office, BI Publisher, MS Visio, Oracle CRM-On Demand
+Confidential - Sacramento, CA
+Business Analyst
+Responsibilities:
+
+Participated in defining project. Oversaw/coordinated assigned aspects of the development project
+Worked with Product Managers to define, develop and document the requirements, use case stories, traceability matrix and data needed
+Gathered transactions data from multiple databases and combine it with the data received from multiple sources
+Maintained key project documents on SharePoint
+Performed investigation and analysis to consolidate several separate databases into one integrated data warehouse
+Wrote key programming scripts using JavaScript
+Created an efficient process for a significant data cleanup
+Coordinated with technical team to manage live instance
+Evaluated proposals and made recommendations to management and clients
+Designed use cases, wireframes, and workflow diagrams using UML and Rational Rose
+Worked with Data team to request additions and updates to Data Model with analysis through Rational Rose
+Assisted in creation of test plans for QA
+Created training documentation and trained key business users
+
+Environment: MS Office, JavaScript, UML, Rational Rose, Oracle Database
+Confidential - Austin, Texas
+Jr. Business Analyst
+Responsibilities:
+
+Gathered and analyzed business requirements and produced specification documents including support, enhancements, tested, performed root cause analysis with IT policies and standards
+Participated in discovery sessions
+Created reporting requirements and functional specifications
+Performed significant business analyst tasks including identifying gaps in requirements and communicating limitations of application architecture that would affect requirements
+Worked with salespersons to design a functional mobile interface
+Created custom roles per requirements specifications
+Used Visio/UML to display workflows
+Designed multiple use cases in an agile development environment
+Designed final user interface for accounts, opportunity, and product objects
+Worked within project scope and timeline
+Worked closely with technology SME's to deliver to the business leadership an accurate view of the current system capabilities and limitations
+Supported change request requirements which went over project scope
+Assisted integration team with data warehousing problems
+Maintained “Level of Effort” tracking for all tasks and ensured that we stayed on budget and on time
+Worked closely with business leadership to accurately capture and communicate business intent to Technology Team
+Supported final QA and UAT
+
+Environment: Salesforce.com, MS Office, Visio, Groovy 

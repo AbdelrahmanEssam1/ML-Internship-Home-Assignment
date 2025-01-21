@@ -1,0 +1,93 @@
+
+
+SUMMARY:
+
+Professional Data Architect with in - depth experience in logical and physical data design. Expert relational, dimensional, and operational modeling skills and experience with multiple database technologies. Recognized for taking initiative to provide creative solutions to complex technical problems. Solid understanding of data schema and structure application to business functions. Apply different technical tools and architect data warehouse environments. Excellent analytical, team-working, project management, communication, and organizational skills.
+Data Architecture/Engineering Big Data Data Analysis
+Enterprise Data Management Data Life Cycle Management Data Visualization
+Conceptual Modeling Data Migration Data Quality & Governance
+Enterprise Data Modeling Business Requirements Performance Tuning
+Logical Data Modeling Data Warehouse Solutions Business Intelligence (BI)
+Physical Data Modeling Agile Data Lineage
+Dimensional Data Modeling Master Data Management
+Erwin PowerDesigner ErStudio Confidential Oracle Microsoft SQLServer Azure Databricks SAP AWS Hadoop JSON
+Confidential Industry Models: Retail, Communication, Media and Entertainment, Travel and Hosipitality
+
+PROFESSIONAL EXPERIENCE:
+SR. DATA ARCHITECT CONSULTANT
+Confidential - San Diego, CA
+Responsibilities:
+
+Provided a broad range of data architecture services across a range of industries as key Professional Services team member.
+Created logical and physical data models for Business Intelligence applications and participated in data architecture design.
+Produced data models and documentation for review by business leaders.
+Conducted data analysis and data profiling and identified opportunities to rationalize common data concepts.
+Incorporated data modeling and data quality best practices into IT solutions road maps.
+
+Confidential - Atlanta, GA
+Responsibilities:
+
+Physical Data Modeler for real-time staging and pre-processing layers by way of incorporating different source system information areas enabling integration into single integrated customer model.
+Facilitated easy transition to new real time staging model from daily batch staging model.
+Translated source data from JSON structures to a structured data model in ErWin.
+Transformed JSON message by developing shredding code.
+Guided client staff by providing industry model expertise.
+
+Confidential - Bellevue, WA
+Responsibilities:
+
+Logical and Physical modeler for a 3rd Normal Form(3NF) model utilizing the Confidential CLDM, integrating different Financial operations; Orders, Purchases, Invoices, Billing, Redemptions, and Cash Receipts.
+Responsible for AWS Hadoop, Confidential Staging, Confidential Core models, as well as Source to Target mappings in PowerDesigner. Provided capacity Plans, and security on Data Security Classifications.
+Introduced Dimensional Modeling with Conformed Dimensions and Fact. Implemented a reusable dimensional model with conformed dimensions for use with Business Objects and Power BI.
+Worked in a team environment providing Industry Model expertise and guidance for both Confidential developers and Confidential staff.
+
+Confidential - Omaha, NE
+Responsibilities:
+
+Physical Data Modeler for Field Project Scheduler, SAP equipment management, and User security for Analytic reporting.
+Translated source systems into structured physical models for consumption into Enterprise Data Warehouse.
+Worked from source data models and file layouts, performed data profiling, produced data mapping and transformation logic to create the physical data model.
+Data Architect and Lead Logical Data Modeler for creation of enterprise data model for the enterprise data warehouse in 3rd Normal Form to integrate business data entities across business functions and multiple countries.
+Led design, development, and implementation of conceptual and logical models derived from client physical data models of source systems and through client working sessions to understand business rules and data flows.
+Created Source to Logical Model mappings, related data conversion, and transformation design for logical model.
+Consulted on physical data model and ETL logic and advised client on models and semantic/metric design on other projects.
+Logical Data Modeler mentoring client developers in interpreting Confidential Retail Logical Data Model (RLDM).
+Customized RLDM to meet client’s business needs and provided thought leadership to extend RLDM into alignment with unique business rules and requirements.
+Logical Data Modeler for creation of 3NF data models for company projects.
+Partnered with Target development and business teams to define requirements and business rules and document data process flows.
+
+SENIOR DATA ARCHITECT
+Confidential 
+Responsibilities:
+
+Ensured that data models completed by third parties met company data standards and aligned to business concepts.
+Created Logical and Physical data models for operational and data warehouse projects.
+Defined standards for data architecture, including data profiling, data model documentation, source to target mapping, class words usage and data governance, consistent with enterprise architectural strategy.
+
+DATA ARCHITECT
+Confidential 
+Responsibilities:
+
+Designed and implemented Logical, Physical, and Dimensional data models for data warehouse projects.
+Provided design of business rules based on source models to transform and create data warehouse models.
+Leader of peer and business reviews to ensure that models complied with requirements and standards.
+
+Data Warehouse Architect
+Confidential 
+Responsibilities:
+
+Supplied database and data warehouse management consulting for a MHPCC managed Air Force Research Lab.
+Documented requirements for new initiatives and completed Oracle database setup and performance tuning.
+Evaluated published RFPs to identify new warehouse business opportunities.
+Created 3NF data warehouse model, ETL processes and end-user interfaces for Air Force Intelligence Agency under high-level security classification.
+
+Data Warehouse Architect
+Confidential - Centennial, CO
+Responsibilities:
+
+Primary Data Warehouse Architect providing Informix database and data warehouse expertise for the business.
+Evaluated new business requirements for integration into existing warehouse.
+Created and implemented dimensional data warehouse following Ralph Kimball methodology, an approach focused on adding business value across the enterprise and dimensionally structured data in manageable life cycle increments.
+Developed and supported production for 24x7 high transaction database systems and recommended databases and related technologies for new projects.
+Created and developed enterprise data model and logical/physical data modeling standards.
+ 

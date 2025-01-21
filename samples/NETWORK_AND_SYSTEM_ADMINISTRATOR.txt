@@ -1,0 +1,130 @@
+
+
+SUMMARY:
+
+Network Management Professional with 10 years of experience.
+Strong customer and employee relations building, supervisory and documentation experience.
+Experienced with LAN, WAN, WLAN, VLAN, VPN, VoIP, IPSec, SSL, IPv6 protocols.
+Professional, progressive and proactive.
+
+TECHNICAL SKILLS:
+Network Equipment: Cisco Switches, Routers, Nexus, Unified Call Manager, PIX, ASA and CheckPoint Cisco WLAN Controllers AirMagnet Wireless and Fluke Networks analyzing tools Zenoos, NetScout, CiscoPrime, SolarWinds, Cacti, Nagios
+Applications: MS Office Suite Word, Excel, PowerPoint, SharePoint, Visio, Project Mgr Server SQL Server TFTP/32, Win Merge Bash Shell(Linux) Active Directory, LDAP and Radius
+PROFESSIONAL EXPERIENCE:
+Senior Network Engineer 
+Confidential - Alameda CA 
+Responsibilities:
+
+Assigned to Network Start-up and Program Support teams for 90 locations based in US.
+Provide network support for WAN, WLAN, LAN, MAN, Data Center and new and existing sites.
+Provide Network Evaluation and Designs for existing and new sites.
+Provided VoIP Design and Implementation Plan.
+Design, build and implement WAN, LAN, WLAN networks for programs depending on location, size and employee requirements.
+Perform WLAN firmware upgrades, add AP Licenses, AVC Protocol Packs and implemented HA failover for enterprise.
+Reconfigured WLAN Controller to support MS Skype for Business and Voice/Video Conferencing.
+Design and implement IPsec VPNs from site to Corporate Data Center using Cisco ASA Firewalls and troubleshoot if needed, working directly with site personnel.
+Collaborate with MPLS, ISP providers, network equipment resellers, cabling and Audio/video personnel to meet scheduled delivery requirements.
+Troubleshoot network issues and provide resolutions to restore services and applications as needed.
+
+Senior Network Engineer
+Confidential - San Francisco CA
+Responsibilities:
+
+Assigned to CREFTS ( Corp. Real Estate, Finance, Travel and Safety) and Campus Network Teams.
+Provide Network Evaluation and Designs for existing and new sites.
+Design, build and implement WAN, LAN for wired, wireless and VoIP networks depending on location size and employee requirements.
+Implemented first LAN deployment using Arista 7304 Routers in SF Landmark, Spear Campus.
+Redesign SFO Offices Wireless Network to improve end user experience:
+Upgrade to Cisco 3702 model for over 150 WAPs on 8 floors in SF Landmark, Stewart and Spear Campus.
+Reconfigure WLAN Controller to support roaming, MS Lync (Skype for Business) Calls, Apple and MS PCs.
+Migrated from 2.4 GHz to 5 GHz band to increase speed and stability of Wireless.
+Perform firmware upgrades, add AP Licenses and implemented HA failover for enterprise.
+Design and implement IPsec VPNs from site to Data Center using Juniper Gateway Firewalls and troubleshoot if needed, working directly with site personnel.
+Design, configure and implement IDS and IPS Solutions for local Internet at new and existing sites.
+Collaborate with MPLS, ISP providers, network equipment resellers, cabling and Audio/video, construction and electrical vendors to deliver network requirements on time and per Autodesk network standards.
+Provide and implement network wired and wireless configurations based on best practices and Autodesk standards.
+Provide and maintain all site information for changes at existing and new sites, update network drawings and contact info.
+Provide Network designs and manage implementations for MLPS Circuit and Network equipment and configuration upgrades and updates.
+Design, Implement and convert sites from digital phones to VoIP phones. Add QoS to router and switch configurations.
+Provide Design and Implementation plans for new equipment for upgrades and refreshes.
+Design and implement QoS configurations to support VoIP, MS LYNC, Outlook, Apple iOS and Autodesk applications.
+Troubleshoot MPLS, ISP, VoIP, LAN, WAN and WLAN Network issues as needed.
+Mentor Junior Engineers and on-board New Network Staff.
+
+Senior Network Engineer 
+Confidential - Oakland CA
+Responsibilities:
+
+Provide Network Support for 65 sites in the Matson Global Network. MPLS, BGP, VoIP, WLAN and wired.
+Evaluate current WAN, LAN, WLAN Networks and provide recommendations for improvement.
+Designed and implemented WLAN Controller HA Failover and Configuration changes to support Wireless Roamingin CORP Offices.
+Move Layer 3 Routing from MPLS WAN Routers to Internal LAN Routers to separate LAN and WAN Traffic.
+Provide new configurations for Routing and QoS policies to improve end user experience.
+Configure and install Cisco Nexus 5K and 3850 switches at sites.
+Design and implement Network upgrades for existing sites.
+Provide troubleshooting and support for network issues, follow up and provide long term solutions.
+Install CiscoPrime Network Monitoring Solution and provided to IT Support Teams.
+Provided configurations and support for new equipment and circuits as needed.
+Provided configurations to Verizon Network and Security Teams on managed WAN Routers and Firewalls.
+
+Onsite Engineer 
+Confidential . - Walnut Creek CA
+Responsibilities:
+
+Provided onsite support for NetScout Equipment and Network Consulting for the Kaiser Enterprise Network of over 600 Medical Offices, 37 Hospitals and 7 Data Centers.
+Set up and managed Cisco Routing/Switching (Nexus 7k, 5K AND 2K, 3750, 3650) and Cisco UCM/Video Lab for NetScout Suite testing and validation of KP Voice and Video QoS templates. Provided feedback and recommendations as needed.
+Consulted KP Wireless Team regarding Cisco best practice for Wireless upgrades new and existing sites.
+Provide VoIP performance analytics to KP VoIP Team and recommendations for improvement.
+Configure and qualify Juniper Routers and Switches for Proof of Concept in KP Lab and using NetScout tools for validation.
+Interacted with Kaiser Project Managers, KP Site Support and NDEs to provide support and guidance for implementations, troubleshooting and new projects involving NetScout Monitoring Equipment.
+Provided reports and consultation for conversion to MPLS Cloud connectivity at sites.
+Provided reports for L2 and L3 network support and worked with KP teams to provide solutions.
+Provided reports for validation of F5 Load Balancer configurations. Recommended changes as needed.
+Provided QoS reports for KP Voice/Video teams and attended weekly meetings to discuss solutions.
+Assisted KP Security Teams using NetScout Suite to detect and determine point of origin for suspicious network activity.
+Use Kaiser Remedy Ticketing System as needed. Opening CRQs, Work Orders and Incidents.
+Submitted and performed changes on regular basis as well as a member of Change Review Board.
+Attended Change Management Review meetings weekly to review submitted change requests and determined severity and verified steps to prevent or minimize outages.
+Verified Network Performance before and after Router and Switch upgrades. Recommended changes as needed.
+Provide /support for Kaiser Personnel in use of NetScout Suite.
+
+Network Engineer Team Lead 
+Confidential - Sacramento CA
+Responsibilities:
+
+Test, validate and document the replacement of Cisco 3750-X, 3750V2, 3570E switches and UCM Voice equipment on EIGRP, VTP (Transparent, Client and Server) Network at Sacramento State University Campus.
+Provided configurations for new equipment to be installed.
+Verification of VoIP QoS, L2 and L3 connectivity on replacement switches to match predetermined standards.
+Troubleshoot connectivity to core and connecting switches, internet connectivity and DHCP.
+Configure access ports and add/modify port configurations as requested by Sac. State Personnel.
+Manage 4 person replacement teams, coordinating with campus personnel.
+Provide configurations for VoIP on access ports and Trunk Ports. QoS, speeds, security, etc.
+
+Network Engineer 
+Confidential - Rancho Cordova CA
+Responsibilities:
+
+Responsible for managing Network connectivity and performance of Central Rancho Cordova CA site and 13 Branch locations in various states across U.S. supporting 4500 users.
+Overseen configurations, design changes and troubleshooting of L2 and L3 switches, routers, VoIP, VPN and wireless in Enterprise Level Network using ATT/MPLS to connect sites (WAN) and EIGRP for distribution and access layer connectivity (LAN).
+Managed replacement of 450+ Cisco 3750, 6509, 6513, VoIP phones, Unified Call Manager, ASA and CheckPoint on Rancho Cordova Site and Enterprise Branch Locations.
+Provided Network designs and roll-out plans for successful upgrade without compromising Network Performance.
+Managed Data Center installation of Nexus 7010, 5020, 2232 and 6500, 4500, 3700, 2900 series switches.
+Engaged with ATT/Verizon to adjust MPLS CoS package to match QoS ps established at WAN Routers, improving VoIP and Video quality and overall network performance.
+Improved monitoring using SolarWinds to utilize existing Net Flow, Configuration Backup and implement scripts to perform upgrades and IOS updates, and perform global configuration changes.
+Configured and implemented Cisco Wireless VPN 5500 Controllers on Enterprise Network.
+
+Network Engineer
+Confidential - Sacramento CA
+Responsibilities:
+
+Install Cat5, Cat6 data, Fiber and audio, video cabling, CCTV and Tandberg video camera systems.
+Install VoIP, Call Manager as per customer requirements, configure and monitor QoS and adjust as needed.
+Maintain Security Protocols: IPSec, SSH WPA2/WPA2 Enterprise on networks.
+Manage Call Manager as needed for new and existing VoIP users. (Add users, create accounts, remove users)
+Install, configure and maintain Cisco, Juniper, Avaya switches, servers, audio and Tanberg devices on networks for clients.
+Install and maintain Network Monitoring Tools based on network size. (Nagios, WhatsUpGold, Solarwinds, Zyion Traverse)
+Provided Network designs based on size, location and type of environment.
+Configure routing protocols for networks based on network size, topology and amount of users. (OSPF, EIGRP, RIP, VTP)
+Troubleshooting, maintenance updates and upgrades of existing devices and network.
+Install and maintain Wireless connectivity for clients.
+Configure servers; install applications (ex. Microsoft Office Suite, Google Mail, Messenger, POD as needed.)

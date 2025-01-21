@@ -1,0 +1,140 @@
+
+
+SUMMARY
+
+Certified SharePoint Administration 2010, specializing in Architecture, Supporting, and Documenting, Administering and Designing to MS SharePoint Environments.
+10+ years of experience wif expertise in Architecture, Installation, Configuration, Customization, Managing and Administering Share Point Portal Server MOSS 2007 / SharePoint 2010 / 2013. User support of SharePoint Administration on a Windows platform wif excellent problem solving, analytical and interpersonal skills.
+Experienced in Installation, Configuration and Portal Migration from MOSS 2007 to SP 2010 using Hybrid Approach Data transfer.
+Expert in Creating, Configuring and Customizing Web Application, Site Collections, Site Definitions, Event, Document Libraries, List, Wikis, Blogs, List Alerts, Site columns, Views, Content type, Versioning, Theme, Custom Master pages, Navigation & Features, User Permissions and Deploying Solution Packages.
+Proficiency in working wif Document management, Content management, Records management, Web content management, Announcement, RSS feeds User profile and personal content.
+Used Visio Services, Performance - point Services and Secure Store Service (SSS) to store and map user credentials to access teh external systems
+Implemented and managed search engine for SharePoint Search Server 2010.
+Created all users profile and groups into Active Directory including authorizing and autantication.
+Extensive work on installation, configuration, and administration of Windows NT 4.0 Server, Windows Server 2000/2003/2008 , SQL Server 2005/2008R2, IIS 5.0/6.0/7.0.
+Expertise wif working in virtual server environments using ESX Server, VMware, and Microsoft’s Virtual Server, Cloud.
+Expertise wif Web Sphere administration, AIX and Linux operating system.
+Experience working wif Oracle Application Server
+Knowledge of new SharePoint 2013 feature and upgraded parts.
+Exceptional ability to quickly master new concepts and capable of working in group as well as independently.
+Experience wif DocAve administrative tools and Nintex Workflow 2010
+Used SharePoint Health Analyzer to fix potential problems for all servers across teh server farm
+Extensive experience in developing SharePoint application using Object model as well as SharePoint Web Services.
+Expertise on designing and publishing teh forms using InfoPath 2010 as well as working on workflow using SharePoint 2010 CA.
+Experience wif developing and customizing Access, Outlook, Excel services and Dashboard along wif Excel web access web part, including filter web parts on it.
+Managed administrator approved Sandbox Solution form templates by using central admin and PowerShell.
+Intensively worked on integrating KPI and Excel Report upon Dashboard pages to display combined data from both SP and external data sources.
+Worked extensively on out-of-teh-box Workflow and Ajax web parts for site provisioning.
+Performed Backup and restore from Central Administration and STSADM.
+Used Silver light web part to upload Silverlight XAP applications to document libraries.
+Deployed web parts and features as Solution Packages using Power Shell commands tool at different levels including site collections, web applications and at each site level.
+Performed regular backups and restore of teh site using Central Administration.
+Proficiency in creating content type using Managed Metadata Service and Metadata term sets using Taxonomy.
+
+TECHNICAL SKILLS
+Languages & GUI: .NET Framework, C#, Java, PowerShell, VB.NET, Web services
+Operating Systems: Windows 8/7/XP and Windows 2000
+Database: SQL Server 2012/2008/2005/2000/7.0 , MS Access and Oracle 8
+Network O/S: Windows Server 2012/2008/2003/2000 and Windows NT 4.0
+Middle Ware: COM, COM+ and MTS
+Data Access Mechanisms: LINQ, ADO.NET, Data Table, Table Adapters and ADO.
+Web Related: AJAX, XML, XSLT, HTML 4/5, ASP, ASP.NET, JavaScript, JQuery, JSONKnockout.js, CSS and VB Script
+Development Tools & Utilities: VS.NET 12 to 03, SharePoint Designer 2010, Visual Interdev, MS Project, MS Enterprise Library, NHibernate, Nunit and Cruise Control
+Integration Tools: Adeptia, SSIS.
+Message Queue: MSMQ, IBM Web Sphere MQ
+Scheduling Tools: Active Batch, Windows Scheduling
+Configuration Management: MS Team Foundation, Subversion, Visual Source Safe
+Messaging & Collaborative: Microsoft Exchange Server 2010 and Microsoft Active Directory, Google, Lotus Domino
+Portals: SharePoint 2013/2010
+Web Servers: IIS 7/6/5
+Methodologies: Agile (Scrum), Water fall and V-Model
+Design Tool: Rational Unified Process, Visio
+PROFESSIONAL EXPERIENCE
+Confidential, Pittsburgh, PA
+Technical Lead / SharePoint Admin / Architect
+Responsibilities:
+
+Involved in configuration, administration and maintenance of SP2010, IIS and SQL Servers.
+Provided supports for teh Operations Center and participate in off-hours maintenance activities, as required.
+Enforce change/problem management and compliance processes and be a technical advocate for teh client. Continually improve Verizon's service relationship wif teh client.
+Continually improve teh environment through upgrades and expansion as needed.
+Used SharePoint Health Analyzer to fix potential problems for all servers across teh server farm.
+Created rich, interactive business intelligence (BI) dashboards that assemble and display business information from disparate sources by using built in Web Parts.
+Configured better Contextual Search and Excel services.
+Used SharePoint Client Model to access and modify application component and reconfigure teh default configuration at various levels of teh application.
+Designed Web applications, site collections, sites, Templates, Views, and Lists.
+Created connectable web parts by creating custom interface to classify information based on a specific instance of identifier of teh entity.
+Configured SharePoint Server and document library to accept incoming and outgoing e-mail.
+Designed various forms like Association, Initiation, and Task Edit using InfoPath.
+Involved in creating approval Workflows using Share Point CA 2010.
+Used BCS, Silver light web part, Business Intelligence center across teh web application.
+Administered User Security in SharePoint environment including teh use of SharePoint and Active Directory Groups.
+Created multiple Master Pages via HTML5, jQuery and AJAX to support user specific landing pages based on client specification
+Created Dashboards using SharePoint Designer 2010 and deployed in SP2010.
+Used managed metadata services for modeling and deploying corporate Taxonomy.
+Used Access Services to publish access database in SP2010.
+Used Quest Recovery Manager for SharePoint backup.
+Involved in development of Event Receivers.
+Used attribute oriented programming to create connected web part to pass data between two independent web parts.
+Used Sandbox Solutions to monitor solution gallery and resources consumed daily. Setup teh quota setting, warning level and restriction using Sandbox solution.
+Used Windows PowerShell (SharePoint 2010 Management Shell) to deploy, backup, restore and number of out of teh box cmdlets.
+Successfully installed and configured teh Quest Site Administrator tool onto SharePoint Production Farm for more powerful site usage reports.
+
+Confidential, Edison, NJ 
+SharePoint Software Engineer / Architect
+Responsibilities:
+
+Conducted various requirements gathering workshops wif executive and super users on teh business side.
+Transformed teh business requirements to Solution Design document and Technical Design documents.
+Automated teh SharePoint Installation and Configuration process across teh farm.
+Integrated Lotus notes wif SharePoint Application for two way data access.
+Created various custom stsadm commands to administer teh SharePoint web applications.
+Collaborated wif business users; produced documentation, including plan, policies and procedures, roles and responsibilities, information architecture, global site navigation, and search strategy.
+Administration and troubleshooting of Web Sphere, Tomcat, AIX and ISS Servers.
+Configure and troubleshooting of Oracle Application Server.
+Enhanced database performance by implementing client server architecture.
+Deployed custom web parts as add on that displayed upcoming meetings/events in various departments.
+Created WFE Style Guide to serve as foundation for unified style of intranet redesign.
+Designed new custom Master Pages using CSS and JavaScript to be both in line wif corporate look and feel and to add additional functionality.
+Developed custom workflows facilitating teh creation and amending of Contracts, Master Agreements, Programs Activities and various other business specific entities.
+Created custom content types to support custom reusable workflows.
+Developed .Net based custom state Machine workflows where in notifications were sent for activities that were not performed past teh deadline.
+Designed and developed custom site templates to customize teh look and feel of teh pages in teh web sites.
+Deployed Windows SharePoint Server (WSS) components by creating .wsp files using Visual Studio.
+Extracted and Filtered data for custom views using Web Service and CAML.
+Customized teh SharePoint Data View Web Part to display search data based on user selection like a particular date range, user groups and specific metadata value.
+Structured and executed Deluxe Corporation platform upgrade to stabilize environment.
+Continually worked wif business support staff in reviewing features and fixes for upgrades and patches for Domino server and automated Notes client software deployment/installation.
+Implemented single sign on solution during Lotus Notes 7.0 rollout. dis implementation reduced teh calls for resetting of passwords to support centers by 71%.
+Established standard operating processes and procedures (SOPs) for global collaboration team.
+Developed system used to order, approve, provision, and distribute BlackBerry devices resulting in a cost savings of labor, shipping, centralized reporting, and contract discounts due to new visibility over teh previous paper systems. Served as a key factor in customer satisfaction in later surveys of IT performance.
+Managed small-scale company acquisitions in assimilating teh associates onto teh business platform in areas such as email, mobile devices and training using Binary Tree migration tools.
+Analyzed client requirements, processes and operations; created and implemented test plans for change management, debugged application agents/code and developed documentation for users, system administrators and procedural requirements.
+Part of team to Migrate e-Mail by using Binary Tree tool and databases reconfiguring applications by using, in partnership wif local teams, to completely decommission teh Lotus Notes infrastructure in Deluxe Corporation.
+Designed and implemented Right Fax architecture.
+
+Confidential 
+Architect / ADMIN
+Responsibilities:
+
+Managing User Accounts, Permissions, User Rights, Account Policies, Security Policies, Administrating user group policies and Monitoring users home folder
+Preparing and maintaining Backup and Restore activity, Bootable disks
+Configuring and monitoring Performance monitoring and checking log files
+Installing and configuring Local and network printers and Scanner
+Regular maintenance and troubleshoot of all teh computers including modem, tape devices and take of backup
+Maintaining documentation of hardware installation or removal, software installation and removal and call report.
+
+Confidential
+Senior Engineer 
+Responsibilities:
+
+Installing O/S like win-2000 server and professional, windows 98
+Configuring DNS, Active Directory, DHCP, WINS, Group Policy
+Managing User Accounts, Permissions, User Rights, Account Policies, Security Policies, Administrating user group policies and Monitoring users home folder.
+Monitoring Event logs, Cache memory and performing effective activity as and when required.
+Maintaining Norton Antivirus Server for their daily security patches wif updating
+Installing and handling Router and Switch
+Installing and configuring Local and network printers and Scanner.
+Regular maintenance and troubleshoot of all teh computers including modem, tape devices and take of backup.
+Analyzing teh software every alternate day
+Maintaining documentation of hardware installation or removal, software installation and removal and call report.
+ 

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Abdelrahman Essam\ML-Internship-Home-Assignment-main\data_ml_assignment\api\main.py", line 1, in <module>
+    import uvicorn
+ModuleNotFoundError: No module named 'uvicorn'

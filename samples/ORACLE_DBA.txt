@@ -1,0 +1,143 @@
+
+
+SUMMARY
+
+Over 7 years of experience in IT industry in the areas of Data warehousing, Business Intelligence and Business Analysis.
+Experience in full life cycle project development, including design, coding, testing and implementation and ongoing product support in Banking, Telecommunication, health and financial domains.
+Expertise in OLTP/OLAP system study, developing Database schemas like star schema and Snowflake schema used in relational, dimensional and multidimensional modeling.
+Oracle Certified Associate (OCA) in PL/SQL.
+Strong understanding of Oracle 8i/9i/10g/11g database concepts.
+Experience in data integration, data migration and data conversion from legacy system into ORACLE Application using PL/SQL.
+Expert in using tools such as SQL*plus, SQL* Loader, TOAD, SQL developer.
+Experience in developing SQL queries, PL/SQL Stored procedures, Functions, Packages, Database Triggers, Cursors, Exception Handlers, Materialized views, Views.
+Experience in Optimizing (Tuning) SQL Queries using Explain Plans, SQL Trace and TKPROF utilities to pin point time consuming SQL’s and tuned them by using Hints, partitions and indexes.
+Working experience in UNIX and shell scripting environment, WINDOWS, MS VISIO and ERWIN.
+Report development experience in Cognos tools such as Cognos 8.4 Report Net (Framework manager, report studio, query studio, Analysis studio, Event studio) and Powerplay.
+Interacted with Customers for requirement gathering and TEMPeffective analysis.
+Knowledge in ETL tools such as Oracle Warehouse Builder(OWB), OLAP concepts, Data Warehouse Architecture, Technology and Dimensional modeling.
+Flexible, motivated, highly organized and a committed individual with good communication skills and strong aptitude to learn new technologies.
+
+TECHNICAL SKILLS
+Languages:  PL/SQL, SQL, C, UNIX Shell scripting.
+Databases:  MS Access, Oracle8i/9i/10g/11g.
+BI Tools:  Informatica 6.x/7.x/8.xCognos 8 ( COGNOS connection, Framework Manager, Query Studio, Report Studio, Analysis Studio, Event Studio and Powerplay Transformer)
+Utilities:  Toad, SQL * Plus
+Operating systems:  Windows XP/2000, UNIX.
+PROFESSIONAL EXPERIENCE
+Confidential, IRVING,TX
+ORACLE DEVELOPER
+Responsibilities:
+
+Gathered Business Requirements from the client and translated the business detail in to technical design and specification.
+Analyzed the data, extracted from the different source systems based on the business rules.
+Designed the application system structure and functional modules. Used the functional document to design application logical and physical structure.
+Worked on Sequences and views pertaining to the Customer edelivery tables.
+Developed various backend application programs such as Functions, Procedures, Triggers, Cursors and Packages using SQL and PL/SQL.
+Responsible for creating functions to be used for calculations. Written database triggers for monitoring the data migration.
+Developed algorithm and PL/SQL code for efficient retrieval and manipulation of complex data sets using PL/SQL packages.
+Written PL/SQL procedures and functions while migrating the data from the source legacy systems to the Target system (Oracle database).
+Created and modified database objects like tables, views, and constraints.
+Implemented business logic using stored procedures to increase performance.
+Used Explain plan and TK PROF for Tuning the SQL statements by creating indexes.
+Identification of performance bottlenecks and improving them by using Hints, Partitioning and Indexes.
+Wrote Unix Shell scripts for automating the process
+Developing Cognos Report Net Reports.
+Providing access to the user through Web Portal.
+Developed drill - through reports and dynamic reports which allow drill down, slice, dice and time trending information to meet the required specifications.
+Prepared test cases and software service specifications documents.
+Enhanced the existing UNIX scripts to run batch processes, oracle background processes using JOBS & achieve better performance and throughput.
+
+ENVIRONMENT:Oracle 9.2.0.2/10.2.0.1/11g, TOAD, SQL * Loader, SQL Navigator Cognos: (Report Studio, Query Studio, Event Studio, Analysis Studio), Cognos Framework Manager, Cognos Series: Powerplay Transformer,, Unix Solaris (5.10), Unix shell scripting.
+Confidential, NJ 
+Oracle developer
+Responsibilities:
+
+Involved in design, development, implementation, testing and documentation of view development process.
+Successful project tasks include data conversion, development, PL/SQL package coding, requirement documentation, testing analysis, and project timeline creation.
+Work with the backend part migrating various database applications to incorporate the changes in the new release of applications and hardware changes.
+Provided the production support for the applications developed/maintained by views team.
+Establish guidelines for tuning of application code and assist the application development teams, Work directly with the Manager of Unix and Database Systems, performance tuning of heavy transaction oriented SQL statement.
+Used Qwest tools (Toad 8.0, SQL Navigator) for database monitoring and tuning.
+Developed batch programs for data load using SQL*Loader, DTS and shell scripts.
+Worked with maintaining software applications written in Pro*C which are used for testing the code developed by the view team.
+Designed functional model of schema gathering customer interactions.
+Identified the file organizations, access methods and wrote database triggers and procedures.
+Encapsulated PL/SQL procedures and functions in packages to organize application.
+Designed functional model of schema gathering customer interactions.
+Trapping Exceptions, Trapping Predefined Oracle Server errors through PL/SQL Exception blocks.
+Worked in validation, Unit Testing, UAT, System Testing and wrote test specs for Clinical Trial Studies.
+
+ENVIRONMENT:Oracle 10g/9i, PL/SQL, SQL*Plus, SQL * Loader, Unix shell scripting, Erwin 4.0/3.5.2, DB2, IMS SQL server 2005, MS-Excel, MS-Access, XML, Flat files, Windows NT.
+Confidential, OH 
+Oracle developer
+Responsibilities:
+
+Worked on Logical and Physical data modelling.
+Participated in the database development, created PL/SQL stored procedures, triggers, functions, packages and sequences.
+Used TOAD to run SQL and PL/SQL code to manipulate the databases in all environments.
+Involved in performance tuning and monitoring by creating indexes.
+Optimized the performance of the application by EXPLAIN PLAN.
+Participated in the DBA activities like creating users, granting and revoking privileges on database objects and taking backups.
+Created Unix Shell scripts for automating the execution process.
+Participated in the design, development and implementation of complex applications, often using new technologies.
+Gathered the requirements by inquiring the user group and translated the requirements into detail technical and functional specifications.
+
+ENVIRONMENT:Oracle 9i, PL/SQL, SQL*Plus, Erwin 4.0/3.5.2, DB2, MS-Excel, MS-Access, XML, Flat files, Windows NT, UNIX.
+Confidential 
+Oracle Application Developer
+Responsibilities:
+
+Converted the datamart from Logical design to Physical design.
+Defined Datatypes, Constraints, Indexes, generated Schema in the database.
+Designed various Fact and Dimension tables.
+Dynamically created complex objects using Materialised views.
+Data Integration was done by carrying out the ETL activities.
+PL/SQL procedures were developed using TOAD for the ETL tasks to be carried out.
+Data was organized by performing Dimensional modeling.
+Has written UNIX Shell scripts for automation process.
+Used Framework manager for importing metadata from multiple data sources to create business subject specific models thereby facilitating the creation and publication of packages to cognos connection.
+Developing Cognos Report Net Reports.
+Developing and refreshing the Cognos Power Play Cubes.
+Providing access to the user through Web Portal.
+Developed drill-through reports and dynamic reports which allow drill down, slice, dice and time trending information to meet the required specifications.
+Prepared test cases and software service specifications documents.
+Ensure that the BI dashboard, various analytics and reports gets updated within SLA.
+Performed SQL tuning to enhance the performance of the Reports.
+Involved in the Cognos 8.4 migration activity.
+Has been actively involved in the 3G launch activities which included development and enhancement of the VAS (Value Added Services) for TATA DOCOMO with extensive expertise in publishing Analytics and Reports.
+Conducted various Knowledge sharing sessions on COGNOS Powerplay transformer, Framework Manager and Report Studio within the teams.
+
+ENVIRONMENT:Cognos 8.4: (Report Studio, Query Studio, Event Studio, Analysis Studio), Cognos Framework Manager, Cognos Series 7: Powerplay Transformer, Oracle Warehouse Builder, Oracle 9i/10g, Toad, SQL*Plus, Edit Plus, Putty, Microsoft Office Tools like excel, word, Microsoft Outlook, MS Access, MS VISIO, Unix Sun OS 5.9, Sun OS Version 5.8, OraExcel.
+Confidential
+Responsibilities:
+
+Requirement gathering and Business analysis.
+Converted the data mart from Logical design to Physical design.
+Defined Datatypes, Constraints, Indexes, generated Schema in the database.
+Defined storage parameters for objects in the database.
+Designed various Facts and Dimensions in the data mart.
+Designed and developed Informatica Mappings to load data from source systems to ODS and then to Data mart.
+Used Powercenter /Mart to design multiple mappings with embedded Business logic.
+Creation of Transformations like Lookup, Joiner, Rank and Source qualifier transformations in the Informatica Designer.
+Created complex mappings using Unconnected Lookup, Sorter, Aggregator, Router transformations for populating target table in efficient manner.
+Created Mapplet and used them in different mappings.
+Provided Knowledge Transfer to the end users and created documentation on the design, implementation, daily loads and process flow of the mappings.
+Designed and deployed UNIX Shell scripts.
+
+ENVIRONMENT:Informatica Powercenter 6.2 (Source Analyzer, Data warehouse designer, Mapping Designer, Mapplet, Transformations, Workflow manager, Workflow monitor, Oracle 10g, Toad or Oracle SQL Developer, Putty, Microsoft Office Tools like excel, word, Microsoft Outlook, MS Access, Unix Sun OS 5.9, Sun OS Version 5.8
+INVENTORY MANAGEMENT SYSTEMS
+Confidential
+Responsibilities:
+
+Analysis, Design, Development, Testing and Maintenance.
+Applied Database Tuning and Optimization, Normalization in the new database design.
+Proposed SQL Tuning within applications for optimized database access.
+Audit programs in PL/SQL for Data consistence check and validation.
+Involved in writing Queries and performance tuning of Oracle database, checking the most expensive queries.
+Database Code Optimization using EXPLAIN PLAN.
+Tuned the performance using parallel queries.
+Automating data loading, Extraction, report generation using UNIX shell scripting.
+Documented the whole process flow, PL/SQL packages, log files, locations and descriptions, log tables and possible error messages, process codes and descriptions.
+Made use of CRONTAB and shell Scripting to perform scheduled tasks.
+
+ENVIRONMENT:Oracle 8i, SQL * Loader, Toad, SQL*Plus, Edit Plus, Putty, Erwin, DB2,EXPLAIN PLAN, Microsoft Office Tools like excel, word, Microsoft Outlook, Windows 98/NTTECHNICAL SKILL                        

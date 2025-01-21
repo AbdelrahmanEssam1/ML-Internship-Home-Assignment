@@ -1,0 +1,155 @@
+
+
+SUMMARY:
+
+Over 7.5 years of Professional Software experience in Financial Industry in Java/J2EE Web Applications Development Environment as Technical Lead with Pershing LLC, A Confidential Company
+Sound Knowledge in Capital Markets, Understanding of stocks, bonds bought and traded.
+Worked closely with Lockwood Business to understand business need and also involved in Solution Design in implementing project.
+Good Experience in Managed Accounts Platform domain, Worked on Proposal System. A powerful, easy - to-use analytics tool, this system allows advisors to create comprehensive investment proposals for their clients and prospects. They can in corporate multiple managed investment solutions into a single proposal, include investment proposals that communicate potential benefits, and deliver these to the client in one fully-integrated document.
+Creation of proposal portfolio with Equity and Fixed Income, Bonds and Cash assets, Historical Analysis of Investments, Portfolio Analytics of Investments, Lock Proposal, Creation and Processing of Managed accounts and Trading of Managed Accounts using JSF 2.0,Dojo as front end
+Have a good experience in Straight through processing (STP) for Managed Account Provisioning of high net worth clients of JP Morgan & Chase, Confidential, Confidential using Webservices SOAP
+Good Experience in Unified Managed Account (UMA) as well as Separately Managed Accounts (SMA).
+Worked on Advisor model management .This feature allows advisors to act as a portfolio manager, constructing and adjusting models as necessary. It also provides enhanced risk management tools that let home offices establish guidelines to ensure each client is invested properly based on their risk appetite
+Worked on Classifying Investments based on Assets (Sub Asset), Styles (Sub Style) and Investment Type provided by Morning Star research Provider.
+Worked in Calculation of Flat Fee methodology for portfolio’s based on configuration of programs that can be calculated using Custodian, Manager, and Program. Creation and override of Fee Schedules and Discount applied to Fee Schedule based on user roles
+Worked on in implementing Conditional Fee Schedules for portfolios above 10 million and Fee by Asset types and Multiple Fee Schedules based on client configuration using Java Generics and Java Collections
+Worked on in generating Proposal Investment Presentation Report(IPR) that includes report sections Questionnaire, Risk Profile, Model Reports, Style Reports, Model and Style Comparison report, Historical analysis report(HRA), Portfolio analytics(PA) report and Term sheet report, Manager Transparency report, Manager Profile and Morning Star X-ray Snapshot report interacting with Morning Star vendor using Java Multithreading and Java Concurrency
+Worked on Advanced Suitability calculation in making sure a model/investment selected is within a risk profile by calculating Annualized Standard Deviation using Java Collections.
+Good Sound Knowledge in Relationship Profile Manager, Worked on configuring Investment Professional (IP) of a financial Institution based on Team IP, Region IP, Person IP and External IP. Linking of Program and Products based on FIRM, REGION and IP using Java Genrics and Java Collections
+Worked on Re-Assign of Proposals from Team IP to Region IP or vice versa.
+Linking Proposal Investment presentation report from FIRM/REGION/IP level to Managed Account, once an account becomes active for trading using Java Genrics and Java Collections
+A Team player, Lead a team of 4, Demonstrated leadership skill, Effective communicator and Initiator in projects and issues that arose.
+4 years of experience in server side development process on J2EE applications which includes JDBC and EJB
+Excellent experience in developing Web Applications using Java/J2EE, Oracle (Querying), Hibernate.
+Good experience on Big Data Components Cloudera Edition - Apache Hive, Apache Pig, Hadoop Map Reduce MR, Scoop, Flume Oozie components and Angular JS
+Good exposure in data profiling and analytical tools such as TRESATA, GLOBAL ID and DATAMEER for data profiling, data lineage and apply rules to filter data set and analyse the result.
+Expertise in Dynatrace - Application Performance Management Tool for analyzing Java JVM Garbage collection and API performance.
+Experience in developing web pages using JSP, JSF, Dojo, Hibernate, HTML, XHTML, XML, CSS, JavaScript, and JSTL.
+Adept in developing web services applications and inter process communication applications using WSDL, SOAP, and XML schema.
+Good hands on experience on Java Collections and Java sorting algorithms and Core Java features
+Good exposure on design patterns Model View Controller, Data Access Object (DAO), Data Transfer Object (DTO), Session Façade, Service Locator and Singleton.
+Proficiency with the application servers like iNautilus (A proprietary of Pershing, Confidential Company) WebSphere and Tomcat.
+Good Hands on Experience in Spring Core Framework Depedency Injection and Aspect Oriented Programing.
+Worked with Relational Database Management Systems including Oracle, T-SQL.
+Experience using version control tools like IBM -Rational Clear Case and VSS.
+
+TECHNICAL SKILLS:
+Programming Languages: Java, J2EE, SQL, PL/SQL, Spring 3.0
+Big Data: Cloudera Edition - Hadoop MR, Apache Hive, Apache Pig, Oozie, Scoop, Flume, Horton Works, YARN, HUE
+Analytical Tools: TRESATA, GLOBAL ID, DATAMEER
+Java/J2EE Technologies: Servlets, EJB, JSP, JDBC, JSTL, JSF 2.x, Java Beans
+Financial Domain: - Managed AccountsProposal Creation, Managed Account Creation, Link Proposal to Managed Account, Fee Calculation, Historical Analysis of Investments, Portfolio Analytics, SMA investments and Model. Equity and Fixed Income, Bonds and Cash Assets, UMA Models, Classify Investment on Asset, Style and Investment Type, Advanced Suitability
+Application Framework: iNautilus
+Design Patterns: Model View Controller, Session Fa ade, Singleton, DAO, DTO, Service Locator
+SOA: Web Services, SOAP, WSDL, XML
+Web/XML Technologies: HTML, XHTML, CSS, DOJO 1.7, XML, XSL, XSLT, XPATH, DOM, ANGULAR-JS
+Scripting Languages: JavaScript, AJAX
+Application/Web Servers: IBM Web Sphere 6.x, Apache Tomcat 7.x, iNautilus
+Databases Familiarity: Oracle 10g, 11g, MySQL
+Operating Systems: Windows 98/NT/2000/XP/7,Linux,Unix
+IDE: Eclipse
+Version Control: IBM CCRC Subversion, VSS
+Connection Management: Putty, Fire FTPDefect ManagementHP Quality CenterPerformance ManagementDynatrace, JProfiler
+Troubleshoot: IE Http Header, Firebug
+Design Management: Enterprise Architect
+Unit Testing: JUnit
+PROFESSIONAL EXPERIENCE:
+Confidential, NY
+Senior Java Developer
+Responsibilities:
+
+Responsible for writing Map Reduce jobs in order to convert data to xml format from the source system in oracle as the data is not in correct format.
+Create tables in hive system and load the xml data in hive from the extracted source system and transform the data based on business requirements.
+Writing java programs using collections and generation of XML and parsing of xmls in hive table and creation of json objects and storing them in hive table.
+Write SQOOP jobs to import data from SQL and oracle systems into HDFS and hive platforms based on business requirements.
+Responsible for masking the NPPI data in hive by writing UDF and user based roles on entitlement.
+Perform data discovery of tables and their hierarchy structure using Tresata analytical tool.
+Perform and evaluate data visualization tool Data Meer analytical for ELT processing jobs.
+Perform data masking, visualization of non-structured data using analytical tool Global Id .
+Responsible for offshore teams on analytical tools like Tresata, Global Id.
+Co-ordinating with offshore team for working on project related activities
+
+Environment: Horton Works Enterprise Edition - Hadoop 2.0, YARN, Hive, Tresata,Global Id, Linux/Unix commands, HUE, Core Java
+Confidential, NY
+Senior Java Developer
+Responsibilities:
+
+Worked on agile methodology to capture Confidential LOB using Hadoop Framework.
+Extensively Used Hadoop Map Reduce to capture data and perform analytics based on Line of business related to batch processing of trades
+Developed few modules using Angular JS to show the output of analytics data MR in pie chart
+Extensively Used Apache Hive for querying from tables and schema related to trade information.
+Extensively Used Apache Pig for storing unstructured data related to client user info and duration of applications used for business activities.
+Used Oozie component for Scheduling of jobs for batch-processing to get data of business transactions to be run at specific time before market hours commences and intimate alert information through mail for task status.
+Have used Flume Components for collection Web Logging transaction from webservers in real time and perform aggregation of data to track business transactions.
+Worked on Scoop for importing of business data from SQL, Oracle relational tables to perform data analysis using MR.
+Used Dynatrace for monitoring of application performance and also study slow performing methods and perform diagnosis.
+Adapted to Hadoop technology through learning and asking questions and clarifications.
+
+Environment: Cloudera Enterprise Edition - Hadoop Cluster, Apache Hive, Apache Pig, SOAP UI, Dynatrace, Oozie, Scoop, Flume Putty, Enterprise Architect, Angular JS, Unix/Linux Commands, Java/J2EE Web applications
+Confidential, NJ
+Senior Java Developer
+Responsibilities:
+
+Development and setting of program and products for JPMC and Primerica Financial institutions using Java, JSF and storing of program information in Oracle
+Development of Proposal Modules Screen which includes Risk Profile, Current Assets, Portfolio Construction, Portfolio Comparison, Fee Schedules and Customized Output using, JSF, Dojo and Hibernate for storing of data in Oracle.
+Server side development on Servlets, JDBC and EJB and Frameworks Spring MVC and Sprig Core.
+Re-assign of Proposals from Team IP to Region IP or vice versa and Linking of an IPR to Managed Account using JSF/Java for front end and Oracle for Querying.
+Configuration and Development of modules to classify Investments based on asset, style and research provider, Morning Star using Java, JSF and HTML
+Development of Investment Finder screen to search investments based on product, risk profile and Nth level of asset and style using Java, JSF from SQL 2008 backend.
+Development of Conditional Fee Schedules screens for portfolios more 10 million using Java/JSF on front end by calling Redi2 using Webservice SOAP WSL and XML.
+Development of screen modules for model creation using Java, JSF and HTML for enabling advisor’s to create advisor models and modify portfolio necessary.
+Configuring External IP to Internal IP and setting up of Firm, Region, IP and Natural IP info in Oracle backend and enabling roles for Region IP and Team IP in backend.
+Worked on IPR with various report Templates logo, questionnaire, risk profile, HRA, PA, Model report, Style report, Style Comparison, Manager Profile using XML, XSL.
+Development of term sheet report using XML, XSL and apply client branding and alignment changes and improved dojo versions to make proposal system browser friendly using MVC pattern.
+Worked in Enhancing Term sheet report to show manager transparency classification of investments owned by JPMC by creating Java methods.
+Worked on Associating IPR to Managed Account from FIRM/REGIONN/IP level to Managed Account level using creating Java methods.
+Leveraged the proposal info via web service for JPMC EZ forms and Primerica SAM for pulling proposal information using SOAP WSDL and XML.
+Enabling EZ forms and SAM Portal to submit Managed Account provisioning for JPMC, Primerica accounts and allow for conversion of accounts through web service using SOAP WSDL and XML.
+Have written complex stored procedures and functions for getting household fees and advisor address details
+Creation of households for JPMC accounts and returns the status of account created via web service on business processing using SOAP WSDL and XML.
+Integration Testing and Support with EZ Forms to make sure the functionality works as expected.
+QPR’s (Quarterly performance report) of Accounts created to see the performance and analysis report.
+Dojo Components Migration from 1.4 to 1.7 for easy and seamless use of front end screens and make components to render fast in IE Browsers 8,9,10 and 11.
+Used Spring features like dependency injection and AOP for logging transactions .
+Used Tomcat server for deployment of CSS and Dojo version and package dependency URL’s required for application and configuring JMS Queue
+Used iNautilus server for setting of application container and deployment of codes and configure JDBC connection pools
+Used Junit for unit testing and use cases before pushing code to test regions
+Worked on Strict Deadlines for completion of project.
+
+Environment: JAVA, JSF 2.0, J2EE, HIBERNATE, AJAX/DOJO 1.7, ORACLE 10g, SQL 2008, Webservice, Soap WSDL, XML, Enterprise Architect, Tomcat 7.x and iNautilus, Spring 3.0 MVC and Spring Core.
+Confidential, NJ
+Senior Application Developer
+Responsibilities:
+
+Development of screens and configuring of programs for Citi CPB and CPBWM programs using Java, JSF and Oracle backend.
+Development and customizing of proposal system application for Citi needs by configuring at backend in Oracle, SQL databases.
+Development of Advance suitability feature screens to verify and compare system generated model and user selected model and display warning message using Java/JSF.
+Configuration and setting up of web service entitlements and s for one source interaction and configuration of JMS Queue in WebSphere server.
+Enabling of Fee over rides on Proposal fees calculated by interaction with Redi2 using webservices SOAP,XML
+Development for providing proposal information details and managed account provisioning for One source application to interact with web service SOAP,XML
+Enabling of additional features to allow industry restrictions on managed account provisioning in Java and sent response to one source using SOAP, XML.
+Development of services for searching and creation of Household in Java and expose the methods in webservices as XML
+Creation of Lock proposal methods in Java and expose to one source application via Webservice SOAP,XML
+Deployment of application code in iNautilus and configuration to be expose methods as webservices.
+Configuring the iNautilus web server to point the app server and enabling of pin mechanism to avoid cross container hits across data center in production.
+Have written complex stored procedures and functions for getting household fees and proposal details
+Used Junit for unit testing and use cases before pushing code to test regions.
+Testing and Support for One source team to make sure the functionality works as expected
+
+Environment: JAVA, JSF 2.0, J2EE, HIBERNATE, AJAX/DOJO 1.4, ORACLE 10g, SQL 2008, Webservice, Soap WSDL, XML, Websphere 6.x, iNautilus
+Confidential
+Application Developer
+Responsibilities:
+
+Development of module’s required for Application by communicating with the Modular Billing System (MBS) for fee methodology for advisors, so that a common fees structure is maintained for all Pershing Customers using Java/JSF and Oracle
+Integration of application with Portfolio backend system, to develop portfolios that are product agnostic using stored procedure for Oracle.
+Enhancement of the Application to support Unified Managed Account (UMA) domain apart from Separately Managed Accounts (SMA) by creating modules in Java, JSF and using Hibernate query.
+Development of Fees Screens to display fees calculated for portfolio which includes multiple fee schedule and fee by asset type for E-trade and PNCI clients using JSF/Java on font end and get fees by calling redi2 using webservices SOAP WSDL and XML
+Stronger Authentication of Netx360 users based on roles by checking the user cookies in container session by configuring in roles in iNautilus.
+Development of Portfolio analytics report for Investment performance for Securian using XML, XSL for report rendering.
+Have created table design schema and written triggers for audit proposal version and also stored pros for getting proposal details.
+Used Junit for unit testing and use cases before pushing code to test regions.
+Enhancing the performance of the application through Java profiler (JProfiler) and study slow performance methods and fine tune them.
+Deployement of CDN builds and css in linux enviorments.
+
+Environment: JAVA, JSF 2.0, J2EE, HIBERNATE, AJAX/DOJO1.4, ORACLE 10g, iNautilus, XML, XSL, Linux/Unix commands 

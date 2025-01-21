@@ -1,0 +1,149 @@
+
+
+SUMMARY
+
+Over 7 years of extensive experience as a Front End UI Developer with solid understanding of database designing, development and installation of different modules.
+Experience in Software Development Lifecycle (SDLC), application design, functional and technical specs, and use case development using UML.
+Experience in designing User Interface (UI) applications and professional web applications using HTML5, DHTML, XHTML, XML, XSL, XSLT, JQuery, JSON, FOP and CSS3.
+Experience applying the latest software development approaches including MVC, event - driven applications using AJAX, Object Oriented (OO) JavaScript, JSON and XML.
+Experience of more than 4 years in tools like Maven and Jenkins.
+Expertise in client scripting language and server side scripting languages like JavaScript,jQuery, JSON, Node.js, Angular.js, backbone.js, Require.js, bootstrap, Ext.js, ActionScript, JSF and JSP.
+Expertise in designing Event Handling Models such as Listener and Dispatcher in OO JavaScript. With back-end in Struts/Spring MVC architecture framework.
+Proficient with Adobe Photoshop, Illustrator & Dreamweaver, MS FrontPage, Microsoft Visual SourceSafe, Macromedia Home Site.
+Good experience working on CSS Background, CSS Positioning, CSS Text, CSS Border, CSS Margin, CSS Padding, CSS Table, Pseudo Classes, Pseudo Elements and CSS Behaviors in CSS.
+Extensive experience in creating style guides, best practices and setting UI standards for enterprise/consumer applications.
+Experience working with testing tools like Firebug, Firebug Lite, Chrome or safari web inspectors and IE Developer Toolbar.
+Extensive experiences in UI Development, Web UI analysis, Web design, coding, testing, implementation and Support working with various projects.
+Expert in designing web applications and web contents utilizing various Search Engine Optimization (SEO) techniques.
+High level of expertise in CSS pixel-level layout,Consistency with browsers, Version and Platform Independence.
+Experience in developing web based applications using Google Web Toolkit (GWT) and J2EE Servlet technology.
+Experience in using Web Services like SOAP protocol in JAXWS and RESTFUL web services Proficient in Object Oriented Design/Development (OOD), Object Oriented Analysis and Design (OOAD), Model View Control (MVC) design pattern and Test Driven Development (TDD).
+Experience in software configuration management using Rational Clear case, CVS, m and PVCS.
+Experience in database design using PL/SQL to write Stored Procedures, Functions, Triggers and strong experience in writing complex queries, using Oracle, DB2, SQL Server and MySQL.
+Experience in Agile methodologies such as Extreme Programming, Waterfall Model and Test Driven Development.
+Experience with Browser testing, knowledge of cross-browser/cross-platform compatibility.
+Strong communication, collaboration & team building skills with proficiency in grasping new technical concepts quickly.
+Self-starter always inclined to learn new technologies and Team Player with very good communication, organizational and interpersonal skills.
+
+TECHNICAL SKILLS
+UI Web Technologies:  HTML5, CSS3, XHTML, XML, JavaScript, AJAX, JSP, UI Concept Modeling/Wire framing, Groovy, Web.NET
+UI Frameworks:  JQuery, ExtJS, DOJO,JSON, backbone.js, node.js, angular.js, require.js, React.js, Redux.js, React Router library
+IDE, HTML Editor:  Eclipse IDE, Notepad++, Adobe Dreamweaver,Edit Plus, Sublime text, JSfiddle, Webstrom and Tatastrom.
+Languages:  C, C++, C#.Net, ASP.Net, MVC
+Version Control:  Perforce, CVS, Git
+Web/App Servers:  Apache Tomcat, HTTP Web Server
+Methodologies:  Agile, Rational Unified Process(RUP), Waterfall, TDD
+Database:  Oracle, MySQL, SQL Server
+Operating Systems:  Windows XP/Vista/7, UNIX and LINUX
+PROFESSIONAL EXPERIENCE
+Confidential, Chapel hill, NC
+Web/UI Developer
+Responsibilities:
+
+Developed cross-browser/platform HTML, CSS3, Angular.js andReact.js to match design specs for complex page layouts while adhering to code standards.
+Enhanced user experience by designing new web features using MVC Framework likeAngular.js,React.js, Redux.js, React Router library and node.js
+Involved in Requirements and Analysis Understanding the requirements of the client and the flow of the application Framework.
+Responsible for the overall layout design, color scheme of the web site using HTML5, XHTML and CSS3 and Responsible for creating detailed wire frames and process flows.
+Developed the front-end featuring rich web interface implemented using HTML5, CSS3,Angular.js, React.js. Used JQuery framework for UI centric AJAX behavior.
+Developed cross-browser/platform HTML, CSS, and JavaScript to match design specs for complex page layouts while adhering to code standards.
+Implemented web based applications using RESTFUL web services.
+Worked on the modernization of a legacy and outsourced UI technologies used wereAngular.js,React.js, Redux.js, and JQuery.
+Maintained Cross Browser compatibility & implement Responsive Design using Twitter Bootstrap, custom media queries, etc.
+Developed Photoshop mockups and prototypes using HTML5 and CSS3.
+Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less layout).
+
+Environment: HTML5, CSS3, JavaScript, JQuery, AJAX, MVC,Angular.js, React.js, Redux.js, React Router library, node.js, Responsive Design, bootstrap, XML, Photoshop, Flash, Firework, Illustrator, JSON, SOAP, FOP,Git, agile and Windows.
+Confidential, Englewood, CO
+Web/UI Developer
+Responsibilities:
+
+Involved in Requirements and Analysis Understanding the requirements of the client and the flow of the application as well as the application Framework.
+Developed cross-browser/platform HTML, CSS3, and JavaScript to match design specs for complex page layouts while adhering to code standards.
+Responsible for the overall layout design, color scheme of the web site using HTML5, XHTML and CSS3 and Responsible for creating detailed wire frames and process flows.
+Developed the front-end featuring rich web interface implemented using HTML5, CSS3,JavaScript toolkits like YAHOO USER INTERFACE (YUI).
+Used JQuery framework for UI centric AJAX behavior.
+Developed cross-browser/platform HTML, CSS, and JavaScript to match design specs for complex page layouts while adhering to code standards.
+Enhanced user experience by designing new web features using MVC Framework like Backbone.js, Require.js and node.js.
+Implemented web based applications using Spring and RESTFUL web services.
+Worked on the modernization of a legacy and outsourced UI technologies used were Angular.js, Ext.js, and JQuery.
+Maintained Cross Browser compatibility & implement Responsive Design using Twitter Bootstrap, custom media queries, etc.
+Developed Photoshop mockups and prototypes using HTML5 and CSS3.
+Used advanced level of HTML5, JavaScript, CSS3 and pure CSS layouts (table less layout).
+Utilized Adobe Fireworks, Adobe Photoshop, Adobe Dreamweaver and Illustrator for the front-end development such as web pages, graphics and multimedia's.
+Produced content pages with CSS3 layout and style markup presentations and also used JavaScript methods and properties.
+Used FOPfor creating user interface designs.
+Used JQuery to select and manipulate HTML elements and also CSS manipulation.
+Used JQuery mainly for adding several functionalities to the application (calendar, tooltips, popover, hiding elements validation, making Ajax calls, etc.).
+Created graphics including Icons,Images and logos using Adobe Flash Catalyst.
+Used JavaScript DOM manipulation and JavaScript event to generate the data result in UI.
+Worked on AJAX controls like Update Panel to manage the post back of the web page to server, AJAX Script Manager and Script Manager Proxy controls to register JavaScript and web service files.
+Developed AJAX driven application by invoking web services/API and parsing the JSON response Involved in developing XML, HTML, and JavaScript for client side presentation and, data validation on the client side with in the forms.
+Used AJAX frameworks like JQuery, JSON to develop rich GUIs and also involved in performance tuning the website.
+Developed web services, SOAP message envelopes and headers using WSDL, UDDI, XML and JAXP.
+Used Git Subversion to implement version control System.
+Developed web services, SOAP message envelopes and headers using WSDL, UDDI, XML and JAXP.
+Co-ordinate with QA for testing, Production releases, Application deployment and integration.
+Involved in Production Support and minor enhancements as per application requirements.
+
+Environment: HTML5, CSS3, JavaScript, JQuery, AJAX, YUI, MVC, backbone.js, require.js, angular.js, node.js, Ect.js, Responsive Design, bootstrap, XML, Photoshop, Flash, Dreamweaver, Firework, Illustrator, JSON, SOAP, FOP, Git, agile and Windows.
+Confidential, Gaithersburg, MD
+Web/UI Developer
+Responsibilities:
+
+Gathered and analyzed the requirements and converted them into User Requirement Specifications and Functional Requirement Specifications for the designers and developers to understand them as per their perspective.
+Designed ASP.NETMVC views using HTML5,CSS3, Bootstrap and Java Script.
+Developed web presentation layer using HTML5 and CSS3 according to internal standards and guidelines.
+Involved in web designing using HTML 4/5, XHTML, CSS 2/3, JavaScript and extensively used Table less Design in CSS for positioning.
+Designed and Developed Java Script frame work which is wrapper on top of JQUERY frame work and AJAX based UI frame work for UI Configuration widgets
+Created prototypes in HTML, Photoshop, JavaScript and CSS for different UI pages
+Developed a core component of Analytics with Node.js, Angular.JS,Backbone.js, Require.js, Couch DB, and Socket Stream.
+Designed Frontend with in object oriented JavaScript Framework like Angular.JS and Ext.JS.
+Maintain Cross Browser compatibility & implement Responsive Design custom media queries, etc.
+Responsible for designing page layout using HTML5, CSS3 along with JQueryand adding dynamic functionality to each module.
+Successfully handled JSON /XML data and carried out JSON/XML parsing for form submissions and DOM manipulation.
+Created design mock-ups and wireframes using MS PowerPoint, Adobe Photoshop CS4 and DreamweaverCS3.
+Created Master Pages, CSS Styles Sheets and Integrated to Silver light and Got approval from Business Stake holders.
+Successfully implemented Auto Complete/Auto Suggest functionality using Ajax, JQuery, DHTML, Web Service call and JSON.
+Utilized various JQUERY plugins to build Rich Internet Application (RIA) to make it look more intuitive.
+Used JavaScript DOM manipulation and JavaScript event to generate the data result in UI.
+Developed JavaScript library for rendering domain specific layout XML to the web.
+Used detailed wireframes and developed Mock-up designs as per the requirements of Business.
+Debug the application using Firebug to traverse the documents and manipulated the Nodes using DOM and DOM Functions using Firefox (Firebug) and IE Developer Tool bar for IE.
+Created pages in Mockups and validated the HTML code with W3C Validator. Involved in fixingFront-Endissues with the layouts.
+Coded pages with best Search Engine Optimization (SEO) techniques.
+Involved Finding out the bugs, broken links and missing images etc. and rectifying them.
+Designed the email blasts using Adobe software and then implemented them using HTML and Java script.
+Discussed various ideas/suggestions for the ongoing web sites regarding the page layout and creative design.
+
+Environment: HTML5, CSS3, JQuery, AJAX, Web.NET JavaScript, angular.js, Backbone.js, require.js, Node.js, Ext.js, Responsive Design, JSON, XML, XHTML, DHTML, DOM, Photoshop, Dreamweaver, Firebug, Fire path, Internet Explorer, Firefox, Chrome and Windows.
+Confidential, Chicago, IL
+UI Developer
+Responsibilities:
+
+Analyzed business requirements, participated in technical design, development and testing of various modules assigned.
+Worked on Design, UI, wire-framing, HTML, CSS, JQuery, JSP, accessibility, and optimization.
+Translated designs and style guides into functional user interfaces, ensuring cross browser compatibility, performance and robustness.
+Utilized various JQUERY plugins to build Rich Internet Application (RIA) to make it look more intuitive.
+Designed wireframes and mockups for new web interface for a network analysis virtual appliance.
+Worked with full UI control of HTML/CSS, maintaining code and cleanliness.
+Created some prototype to implement some of the latest features of HTML and CSS.
+Used Java Dojo Application for web-based application development to integrate development features for Java, Web 2.0, Asynchronous JavaScript and XML (AJAX).
+Worked with back end developers to implement AJAX and dynamic HTML functionality in JQuery.
+Extensively worked with making calls to APIs to fetch the data from the backend as JSON response and parse it on the UI for DOM/CSS Manipulation.
+Worked with complete redesigns of a daily events website and focused on improving readability, utility, and overall UX.
+Worked closely with QA team to understand the reported defects and fix them.
+
+Environment: Java, JSP, JavaScript, HTML, CSS, XML, JQuery, JSON, DOM, AJAX, Eclipse, Windows XP.
+Confidential
+Web Developer
+Responsibilities:
+
+Created user-friendly and well organized UI’s using HTML, and CSS.
+Exposed to SDLC and waterfall model structure of product development.
+Used JavaScript for popping up a new window with control over size, position, and attributes of the new window.
+Responsible for developing, editing, publishing and managing content on the external Web pages and internal portals.
+Used JavaScript Validate input values on forms to make sure that they will be accepted before they are submitted to the server.
+Used Cascading Style Sheet (CSS) in web pages to separate presentation fromstructure to be able to define text alignment, size, borders, and many other typographic characteristics.
+Interacted with users at different levels through Weekly demos to ensure continuous feedback and meet user requirements.
+
+Environment: HTML, CSS, JavaScript, XML, Windows. 

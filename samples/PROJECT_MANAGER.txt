@@ -1,0 +1,192 @@
+
+
+SUMMARY
+
+Seasoned Business Analyst with 9+ years of experience in the HealthCare, Life Insurance, E - Commerce, Digital and Web based applications.
+Expertise in all the phases of the Software Development Life Cycle (SDLC), Waterfall, Agile/ Scrum, Spiral and RUP methodology.
+Supported Project Manager in preparation of Project Charter, Project Plan and assisted with team meetings and weekly status reports.
+Expert in creating User Stories, Use Cases, Case Diagrams, Class Diagrams, Sequence Flows using MS Visio and Rational Rose using UML concepts.
+Expert in conducting Joint Application Development (JAD) sessions with the stakeholders, business users, and SME’s to obtain domain level information of projects.
+In-depth understanding Gap analysis for AS-IS and TO-BE business processes.
+Excellent skills in Performance Management to support strategic planning, goal setting, strengthen accountability, enhance decision making.
+Clear comprehension of Business Process Re-engineering and Reverse engineering.
+Expert in performing Impact analysis (Feasibility analysis, cost/benefit analysis, Risk analysis) for Change Management and Configuration Management.
+Expertise in Elicitation, Analyzing, Validation, Prioritizing and Documenting the Functional Requirement Specification (FRS), System Requirement Specification (SRS), and Business Requirements Document (BRD) generating the UAT Plan, maintaining the Traceability Matrix using DOORS and assisting in Post Implementation activities.
+Experience in documenting Contract Requirements for Carrier Onboarding and Platform Requirements for vendor Onboarding to facilitate easy shopping and enrollment into health plans.
+Experience in Forward Mapping and Backward Mapping analysis of ICD 9 - ICD 10 Conversion for CM (Diagnosis Codes) and PCS (Procedure Codes).
+Expertise in EDI HIPAA Project to convert EDI X12 Healthcare 4010 transactions into 5010 Compliance transactions.
+Knowledge and expertise in working with Claims, Provider Relations, Enrollment, Finance, Benefits Administration, and Vendor Relations' Business Areas.
+Vendor Management - Worked as a facilitator for Testing Efforts and New Requirements between the Healthcare Company and its various Vendors.
+Worked on PBM projects involving Benefit Base Plan changes and Configuration changes to ensure the accurate processing of claims. Determined dependencies between enrollment and benefits processes and ensured each Business Areas delivered their tasks on the projected target dates.
+EDI Claims processing - documented enhancements to the EDI Claims Processes (EDI 820, 837, 835, 276, 277) to ensure accurate processing of claims using ClaimCheck.
+Expert in all phases of the Application life cycle Management Tools such as HP ALM, JIRA, and RATIONAL TEAM CONCERT etc.
+Defect Management - Fully involved in the process of defect identification and resolution using Test Director.
+Knowledge in FACETS, HIPAA, SEI-CMM and 508 Compliance Standards.
+Expert in building test plans and test cases and conducting various software testing methods such as Smoke testing, Sanity testing, System integration testing, Regression Testing, Load Testing, Performance Testing along with Black box testing and User Acceptance Testing (UAT).
+Comprehensive noledge of testing web based applications and databases.
+Well versed in 508 Compliance Tools, and 508 testing procedures, business rules, validation procedures, identification of 508 compliancy defects, and testing tools and devices.
+Working noledge of CRM Cloud Application SALESFORCE AND ERP application SAP.
+Expert in Databases and Data Warehouse technologies and Scripting Structured Query Language (SQL) in extraction and modification of data from the existing systems.
+
+TECHNICAL SKILLS
+COMPLIANCE PROCEDURES:  HIPPAA, X12 EDI, Section 508, SOX, SEI-CMM and ITIL.
+TOOLS: MS Office Suite (Word, Excel, PowerPoint, Outlook, OneNote and Access), MS Project, MS Visio, Balsamic, Axure Pro RP, Adobe, JIRA, TFS, HP ALM, IBM DOORS, Requisite Pro, Rational Team Concert (RTC), Business Process Modelling Notation (BPMN 2.0), SAS, CLAREDI, Tableau, Wiki and SharePoint.
+PROGRAMMING:  C, C++, Core Java, Unix, SQL Server, My SQL, Oracle 11g, HTML, XML, ACCESS & Mobile Apps, SAP MM and Salesforce CRM.
+PROFESSIONAL EXPERIENCE
+Confidential, San Antonio, TX
+Scrum Master
+Responsibilities:
+
+Analyzed the AS-IS and TO-BE business processes and documented the process work flows for the client at the enterprise hub level using BPMN techniques.
+Documented GAP Analysis and high lightened business related risks in areas of migrations, integrations and customizations.
+Documented technical requirements for an existing application that would utilize features and services from two new major medical carriers/payors and their products. (Cigna- Major Medical and Accident; United - Major Medical and Short Term Medical).
+Led functional and data analysis meetings with the business staff. me have analyzed existing data warehouse and operational reports and validated data mapping with the business.
+Conducted in-depth analysis, validation, mapping and reconciliation of data feed from the carriers to support client’s initiative in business reporting requirements.
+Facilitated requirements gathering for a dual facing internal application to promote the clients objectives.
+Created wireframes to support application changes at the member and member service representative level.
+Assisted business managers in documenting process flows and halp them understand the intricacies of existing technology in meeting the business needs/requirements.
+Liaising between the Project’s IT team and business to gather requirements, analyze, validate and document to support smooth functioning of the project.
+Provided visualization of data by creating a heat map for products sold by the contracted carriers based on their services at the zip code level.
+Conducted Smoke testing, Sanity testing, Black box testing, Integration testing, Functional testing, Regression and User Acceptance Testing (UAT).
+Out of the box implementation of Connecture Major Medical Platform for private major medical including attached HSA products.
+Working noledge of GHX’s Exchange Services Product and evaluation of the same.
+Administered rational solution for Collaborative Life Cycle Management tool (Rational Team Concert) for the project.
+Utilized Share Point and Wiki as a source of documentation and content management.
+Supported project manager with project coordination and administration activities such as documenting tasks and timelines, holding daily standup meetings, preparing templates, aggregating meeting notes and coordinating with the internal audit requirements.
+
+Environment: HIPAA, Enrollment, Agile, Rational Team Concert, Payor, BPMN2.0, Igrafx, HP Application Life Cycle Management, SharePoint, SAS, WIKI, Balsamic, and MS Office Suite.
+Confidential, Charleston, SC
+Business Systems Analyst/Scrum Master
+Responsibilities:
+
+Worked on to support and manage Healthcare Benefits Administration for healthcare clients (Payors and Providers) across US.
+Developed the comprehensive "current state" process model outlining Confidential IT Warranty and IT Support process for application development.
+Developed business process and process step models (BABOK) for Confidential to demonstrate their presence in global operations.
+Provided business process modeling training to the client utilizing the modeling software non as ARIS
+Worked closely with management and business operations unit to understand document decision support needs and fulfilment of requirements for Unemployment Insurance.
+Led discovery activities with business and information services staff at all levels to understand business objectives, assumptions, and constraints related to a solution delivery.
+Assisted the mobile development team in documenting the requirements and user stories for mobile app development and related features.
+Documented user stories, process flows and wireframes for the mobile application to be run on OS platform.
+Involved in troubleshooting and resolving errors in 834 and 820 transactions for health insurance exchanges.
+Analyzed discrepancies in the eligibility reconciliation process for multiple stakeholders and continuous process improvement of the reconciliation process.
+Ensuring continuity of cross functional business requirements between project competencies.
+Conducting business process analysis needs assessments, and preliminary cost benefit analysis as specified in BABOK.
+Leading stakeholder analysis and documentation of interdependent processes with other business units.
+Responsible for developing and performing 508 compliance test plans and test cases.
+Handling the tasks of performing 508 compliant verification testing and reviewing technical requirements of software.
+Responsible for developing test schedules, validation of manual and automated testing, and developing testing improvement plans, if required.
+Assisted Project manager with administration activities such as release plan schedules, publish task list of the team on their status, holding weekly status meetings and communication of status reports.
+
+Environment: BABOK, HIPAA, X12 EDI, Mobile Apps, iOS, Payor and Provider, Life Insurance, JIRA, Balsamic, MS Office Suite, and WCM.
+Confidential
+Business Systems Analyst (Encounter/Claims)
+Responsibilities:
+
+Worked on HTHP State of WI 5010 Encounter Reporting Implementation Test Planning.
+Knowledgeable for gap analysis in changing oldMMISand Involved in testing newMMIS.
+Draft the Business Requirement Document (BRD) and Functional Requirement Document (FRD) for the Project.
+Drafting and implementing Test Cases and Test Plans for the project while in production.
+Ensure working on testing the Institutional and Professional Claims/encounters for & ASC X12 formats that meets HIPAA Compliance and Confidential DHS Requirements.
+Communicating with Trizetto (Application Vendor), HTHP (Client) and Internal Confidential staff for resolving the issues/errors from the files submitted to Wisconsin DHS.
+Leading efforts with business partners and technical teams to perform analysis, define requirements, and present innovative solutions that solve business problems, or that meet business project and service request needs.
+Proposed strategies to implement HIPAA 4010 in the new MMIS system & eventually move to HIPAA 5010.
+Worked on batch file submissions to the State of WI on an encounter submission file EDI X12 837.
+Created data migration mapping document to instruct Confidential information technology team on proper transfer of claims data to a new database system in RDBMS Architecture environment.
+Working noledge of MACCESS to run SQL queries for data analysis and extraction.
+Have strong experience in requirements gathering by conducting interviews with end users
+Actively worked on Data analysis and Report analysis with respect to ICD-10 impact
+Assisted JAD sessions to identify the business flows and determine whether any current or proposed systems are impacted by the EDI X12 Transaction, Code set and Identifier aspects of HIPAA.
+Highly involved in understanding of department workflows and process flows with respect to applications. Improved process for payment of Medicare Secondary Payer claims through revised workflows.
+Collected the information related to ongoing application upgrade and their impact on ICD-10 implementation and created awareness within the departments regarding the need, impact, benefits and risks of ICD-10 code application
+Involved in providing education about the ICD-10 codes and 5010 standards, its requirements, complexity and accuracy.
+Responsible to meet the information demands of our business users by delivering timely, accurate, meaningful and standardized data and reporting
+
+Environment: IBM Curam, Maccess, ClaimCheck, FACETS, Microsoft Visio, Microsoft Project, Microsoft Office Suite, Axure RP Pro 6.0.
+Confidential, Bloomington, MN
+Sr. Business Analyst & Project Lead
+Responsibilities:
+
+Provided analytic and intelligence support for the design of future benefit plans, as well as the support in areas of product sales, benefit plan operations, proof-point performance reporting, and mandatory reporting for State and Federal Exchanges.
+Expertise in identification of business and data requirements, and converting them into conceptual and logicaldata models.
+Excellent data-analysis skills and ability to translate specifications into a working Universe and/or Report using Maccess.
+Explored Medicare and Prescription drug spending using Tableau Online, Business Intelligence in Cloud.
+Experience in building and retrieving data usingUniverses, personal data files,and creating complexad-hoc Reportsusing theBusiness Objectssuiteapplications.
+Extensively used advanced reporting functionalities such as Master Detailed,Drill, Filters, Ranking, Sections, Graphs and Breaks.
+Lead stakeholder analysis and documentation of interdependent processes with other business units.
+Led discovery activities with business and information services staff at all levels to understand business objectives, assumptions, and constraints related to a solution delivery.
+Consulting several business units and diverse project teams to gather and document enterprise level requirements.
+Gatheird reporting requirements utilizing business artifacts and interviews with Subject Matter Expert’s, Stakeholders, and Management.
+Documented project artifacts such as Charter, Scope, Idea Creation Request, Project Plan, Stakeholder Analysis, and Resource Plan and uploaded into SharePoint.
+Drafted Current State Inventory and Analysis Document, Process Flow Diagrams, Gap Analysis, Functional Requirements Specification Document for deliverables from Enterprise Reporting and Analytics Perspective.
+Documented Standard Operating Procedures, Risk Analysis, Project Roadmaps, and Report Asset Catalogs. Organized and led product success and performance reporting efforts.
+
+Environment: BABOK, Business Objects, Maccess, Tableau Online, Clear case, TFSBPMN2.0, Microsoft Office Suite including Visio, SharePoint, Axure RP Pro 6.0.
+Confidential, New York, NY
+Business Systems Analyst
+Responsibilities:
+
+Lead Business Analyst involved in documenting changes to the Benefits Administration, Enrollment Processing and Claims Processing Systems based on the Medicare Plan Changes initiative.
+Gatheird Business Requirements from the Subject Matter Experts (SMEs) and documented the requirements in the BRD. Utilized data flow diagrams, user story/ use case diagrams and process flow diagrams to represent information provided by the Business Owners as referenced in BABOK.
+Organized meetings and led JAD sessions to ensure legal and compliance deadlines of CMS (Centers for Medicare and Medicaid Services) are met. .
+Supporting mobile applications by conducting GAP Analysis, documenting User Stories and designing process flows.
+Worked with Business Owners of Market Prominence, the Enrollment Processing System, to ensure that the enrollment process for the new members is updated with changes.
+Worked with the UAT and QA teams to conduct an assessment and determine how effective UAT and QA guidelines can halp the company achieve timely completion of projects.
+Worked with Business Owners of Quality Care, the Claims Adjudication Process, and documented updates and enhancements.
+Vendors and Delegates - Worked with Business Owners and Relationship Managers for Vendors and Delegates, e.g. Davis Vision, Montefiore, HCP, to ensure that Eligibility and Membership File exchanged on daily and weekly basis is updated with the Medicare changes.
+Change Control Process - Led the Change Control Process for changes submitted for the BRD once the document was submitted to IT department.
+Documented the UAT Plan for the project and worked with the UAT Team to ensure every acceptance criteria for the requirements TEMPhas been included in the UAT task plan.
+Used Doors to maintain the Traceability Matrix to track the Business Requirements to the design to the testing keeping track of all requirements in the BRD.
+
+Environment: X12 EDI 834, HIPAA, and Web Portal: Heads Down & PEPs, HP QC, BPMN2.0, QCARE, MS Access, ORACLE,MS Word, Excel, Visio, PowerPoint, SharePoint and Doors.
+Confidential, Alabama
+Business Analyst
+Responsibilities:
+
+Involved in requirements gathering sessions with Business Analysts and Architects to understand requirements in terms of business change.
+Analyzed System Impact including MMIS Tables, Windows, Reports and Interfaces to external entities.
+Created Business Rule Comparison (BRC) documents and Side-By-Side (SBS) comparison documents using 10 implementation guides for X12 transactions in Excel spreadsheet.
+Got hands on experience on analysis of GAP analysis between current HIPAA 4010 and HIPAA 5010 requirements.
+Analyzed HIPAA 4010 and 5010 standards for 837P EDI X12 transactions, related to providers, payers, subscribers and other related entities.
+Got exposure of IBM mainframe environment for Medicaid Management Information System impact assessment. Dealt with the EDI transaction-835 claims payments and remittance advice, which deals the payment from payer to provider.
+Analyzed HIPAA 5010 impact on external Data Warehouse and data warehouse extract process and mapping of MMIS database and data warehouse.
+Analyzed RRI/Viking Subsystem (an external system off the state, dealing with conversion of paper claims to electronic claims) and recommended changes for HIPAA 5010.
+Responsible to meet the information demands of business users by delivering timely, accurate, meaningful and standardized data and reporting.
+Attended daily meetings and dealt with day-to-day deadlines.
+Experience in Forward Mapping and Backward mapping analysis of ICD 9 - ICD 10 Conversion for CM (Diagnosis Codes) and PCS (Procedure Codes).
+Also involved in implementation of ARGUS drug safety system.
+
+Environment: MS Office Suite, FACETS, CMMI, Requisite Pro, SQL, HIPAA, HL7, EDI X12.
+Confidential, NJ
+Business Analyst
+Responsibilities:
+
+Involved in the quality planning and testing of a web based ordering solution of the pharmaceutical company.
+Facilitated test plans and user acceptance tests and regression analysis as well.
+Defined the scope and implemented business rules of the project, gathering business requirements and documentation.
+Order Process Management - Designed techniques to implement a new Billing and Inventory Management Tool to better track the expanding business' products.
+Software and Product Development for the healthcare industry products.
+Created User Stories, activity report, logical components, and deployment views to extract business process flows and workflows involved in the project.
+Analyzed Business Requirements and developed User Stories, Activity Diagrams and State Chart
+Created Process Flow diagrams, Use Case Diagrams, Class Diagrams, and Interaction Diagrams using Microsoft Visio and Rational Rose.
+Worked with the QA team lead and QA standards to ensure compliance with all regulatory requirements such as SOX compliance.
+Effectively communicated user acceptance test results between users and development team and provided recommendations for change control requests (CCR).
+The Internet serves as a platform for e-commerce transactions for sale of CVS Products.
+
+Environment: HTML, BABOK, Rational Rose, SQL server, HP Quality Center, Microsoft Office Suite, PERL, Java.
+Confidential, Chicago
+Business Analyst
+Responsibilities:
+
+Participated in full life cycle implementations (SDLC) from project initiation to final deployment.
+Worked with various Business Areas like Enrollment, Claims, Finance, Providers and Benefits Administration.
+Gatheird Business Requirements for the Claims Business Area and updated EDI Transactions like EDI 834, 837, 835, 277 and 276 with the HIPAA 5010 Changes.
+Involved in the documentation of ICD 9 - 10 Conversion's Impact Analysis of the Diagnosis and Procedure Codes.
+Knowledge of the Diagnosis and Procedural Code changes for Healthcare Entities like Payers, Employer Groups and Providers.
+Web Portal Development - worked as a Business Analyst gathering requirements to develop a referral portal. Documented Current State vs. Future State for a Referral Web Portal.
+Testing - Developed Test Scripts using Test Director and coordinated with developers to quickly resolve the defects associated with them.
+Analyzed and evaluated User Interface Designs, Technical Design Documents, and Quality Assurance Test Conditions the performance of the application from various dimensions.
+Created Business Requirement Documents and Technical Requirement Documents as a result of meetings with the Business Areas. Change Control Process - Led the Change Control Process (BABOK) for changes submitted for the BRD once the document was submitted to IT department.
+Documented the UAT Plan for the project and worked with the UAT Team to ensure every acceptance criteria for the requirements TEMPhas been included in the UAT task plan.
+Maintained the Traceability Matrix table to uniquely trace the identified business requirements to general design to testing as proof that requirements requested have been developed into a solution and that it TEMPhas been tested and tracked.
+
+Environment: MS Office Suite, BABOK, FACETS, CMMI, HP QC, Requisite Pro, Clear Quest, SQL, Oracle, J2EE, Java and Unix. 

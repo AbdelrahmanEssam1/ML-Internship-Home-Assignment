@@ -1,0 +1,107 @@
+
+
+SUMMARY
+
+Strong knowledge of Insurance Industry including Claims system applications across multiple lines of business in P&C Domain with emphasis on creating Business, Functional and Technical Requirements & Development for Data Warehousing & BI Projects
+Strong knowledge in the areas of Terrorism Catastrophe Insurance, Management Information Reporting, Metadata Management, Claim life cycle, Benchmark pricing tools
+Ab Initio developer with 7+ years of industry experience in analysis, design, development, testing, promotion & deployment of applications. Hands on experience include developing Data Warehouse/Marts/ODS and publish dependent BI reports
+Experienced in System Analysis, Business and Functional Requirement Analysis, Reverse and Reengineering Analysis, Migration analysis, Mapping and Gap analysis, Development, Testing, Implementation and support of modules
+Expertise and well versed with various Ab Initio components such as Database, Datasets, Transform, Translate, FTP, Web Services, Sort, Partitioning, Excel & SAS Interchange, gather, merge, interleave, Miscellaneous, Plans and others
+Well versed with various Ab Initio parallelism techniques and implemented graphs using Data, Component, pipeline parallelism and Multi File System (MFS) techniques
+Experience in creation of generic components like Email, Load & Plan with the help of pset
+Performance tuning of graphs, worked on tuning the memory parameter and Ab Initio best practice approach to implement the ETL process
+Expertise in creating complex plans, subplan, conditional tasks and scheduling them through AutoSys
+Knowledge of Unix Commands, Ab Initio’s m type shell commands and wrapper scripts
+Experience with EME & SVN for Ab Initio jobs migration, version control, and dependency analysis
+Good understanding of Teradata’s MPP architecture such as Shared Nothing, Nodes, AMPs, BYNET, Partitioning, Primary Indexes etc. Extensively used different features of Teradata such as Fast load, SQL Assistant, DDL and DML commands
+Experience in Profiling, Cleaning, Extraction, Migration & Integration of all 3rd party vendor data feed into Warehouse
+Good Experience working with various Heterogeneous Source Systems like Teradata, Oracle, DB2, Flat files, Mainframe (Sequential, GDG, tape file)
+Experienced working in a 24/7 Production Support environment
+Strong experience on conducting Change/Code Review Meetings, Process Documentations & coordinating in Onshore Offshore model with large team sizes
+Good knowledge of concepts like business intelligence, data warehousing, dimensional modeling, star schema, snowflake schema, OLAP & OLTP
+
+TECHNICAL SKILLS
+Operating Systems: Windows NT/98, 2000, XP, 2007, UNIX
+Databases: Teradata, SQL Server 2008, Oracle 11.2, MS Access 2003/2010, DB2
+Query Tools: Teradata SQL Assistant, Advanced Query Tool
+ETL Tools: Ab Initio (GDE 1.15, 2.15, 3.0.3.0, 3.0.5.2 Co>op 2.15, 2.16, 3.0.3.2), Elementum, SAS EG, MS Access
+Reporting Tools: Excel, SAS EG
+Metadata Tools: Ab Initio Metadata hub
+Version Control Tools: EME, Tortoise SVN, SharePoint
+Elementary Knowledge: Mainframes, JCL, FOCUS
+PROFESSIONAL EXPERIENCE
+Confidential, Hartford, CT
+Ab Initio Developer
+Responsibilities:
+
+Involved in designing a consolidated ETL & Reporting process to establish a decommissioning process using SAS Analytics Framework
+Worked on Data lineage analysis from reporting layer mapping back to source data and complete mapping of the front end Applications with the source database systems
+Worked in reverse engineering to produce existing system documentation and further refinement of business rules to build the target system
+Production ETL & Reporting process with Ab Initio graphs and Qlikview reports through Autosys
+Transformed and conditioned the non - formatted data into standardized format using Transform components like Reformat, FilterByExpression, Join and Sort components in Ab Initio graphs
+Worked on complex Ab Initio XFRs to derive new fields and solve various business requirements
+Developed generic graphs to extend a single functionality to many processes and reduce redundant graphs
+Used Ab Initio to create Summary tables using Rollup and Aggregate components
+Created complex Ab Initio graphs and extensively used Partition and Departition components to process huge volume of records quickly, thus decreasing the execution time
+Worked on improving the performance of Ab Initio graphs by employing Ab Initio performance components like Lookups (instead of joins), In-Memory Joins, Rollup and Scan components to speed up execution of the graphs
+
+Environment: Elementum, Qlikview, MS Access, Microsoft XL Pivots, SQL Server, Mainframe
+Confidential
+Ab Initio Developer
+Responsibilities:
+
+Gathered business requirements, interacted with the business team on Terrorism processes and created High Level Designs for the Ab Initio Graphs as per the use cases given by the business team
+Interacted intensively with the system analysts of the Terrorism team in order to understand the requirements and to seek clarifications on the use case(s)
+Converted High Level Designs into Ab Initio Graphs. Revised Ab Initio graphs as per the circle band, adjust factor changes to calculate latitude & longitude
+Written UNIX shell scripts and dos batch programs for data management purposes.
+Performed data validation before moving the data into staging areas using in built functions like is valid, first defined, is blank, is defined, string length, and string index
+Worked on Quality analysis using Data profiling by maintaining various Transform components, Dataset Components to pull, cleanse and load data into target Data warehouse
+Extensively used Ab Initio built in string, math, and date functions, statements and packages to create variables within the transformations to facilitate complex business rules
+Created complex graphs by using various Ab Initio design components - joins, filters, reformat, denormalize, normalize rollups etc in a heavily partitioned environment
+Fine-tuned the Ab Initio graphs for the performance. Worked on phasing and partitioning of the graph.
+Created Ab Initio graphs as per the SBIS team standards for the Ab Initio design and coding and got it reviewed from the SBIS team
+Unit tested the graphs extensively by extracting data from the tables and comparing the results to the unit test plan.
+After successful testing the graphs were checked into the specific EME repositories for the string testing, negative testing, User Acceptance Testing (UAT), Integrated processing (IP) and production.
+Participated in the Autosys Scheduling of all the Terrorism processes and provided the graph and file details for each process.
+Creation of generic components like Email, Load & Plan with the help of pset
+Created generic testing graphs to read data from files and perform a field level comparison with Ab Initio Outputs
+
+Environment: Ab Initio, MS Access, Microsoft Excel, Teradata, Mainframe, SQL Server, Trillium Geocoded data
+Confidential
+Ab Initio Developer
+Responsibilities:
+
+Interacted with business customers & Field office professionals to gather and understand the requirements; worked closely with the Data Architects, DBA’s; thus translating business requirements into ETL & Reporting requirements for design and implementation
+Responsible for creating business & technical design documentation and implementing them into Ab Initio Graphs after system analysis
+Responsible for coordinating with offshore team of 20
+Developed Unix Korn Shell wrapper scripts to control various Ab Initio processes and complex functionalities such automated ftp, remote shell execution, and remote copy etc
+Used Ab Initio for Quality Analysis, Error Handling by attaching error and rejecting files on each transformation and making provision for capturing and analyzing the message and data separately and providing statistics to Enterprise ETL Optimization team
+Modified Ab Initio graphs to utilize data parallelism and thereby improve the overall performance to fine-tune the execution times by using multi file systems and lookup files whenever required
+Implemented phasing and checkpoint approach in ETL process to prevent data loss and to maintain uninterrupted data flow against process failures
+Creation of generic components like Email, Load & Plan with the help of pset
+Created generic testing graphs to read data from files and perform a field level comparison with Ab Initio Outputs
+Worked on creation of windows batch script to automate the Reporting job after ETL process
+Worked on improving performance of Ab Initio graphs by using various Ab Initio performance techniques like using lookups, in memory joins and rollups to speed up various Ab Initio graphs
+Worked closely with CM team to migrate the ETL code changes from development environment to System, Integration and Acceptance environments
+Created test cases and performed unit testing for the Ab Initio graphs. Documented Unit testing. Logged and resolved defects in the roll out phase and troubleshooting any production issues
+24*7 production support includes monitoring batch jobs, investigating and resolving the problems.
+
+Environment: Ab Initio, SAS EG, Ab Initio Metadata hub, MS Access Microsoft XL Pivots, Teradata, Oracle, SQL Server, Mainframe
+Confidential
+Ab Initio Developer
+Responsibilities:
+
+Understanding the goals and creating functional requirement documents for developing benchmark restatement reporting data warehouse from operational policy and Quoting database systems
+Reverse engineered SAS code, MS Access tool to document the existing functionality and further refinement of business rules for building target system
+Automated the Ms Access reverse engineering process with the help of VB Script & VBA to document the business rules
+Converted SAS, Ms Access (VB & VBA) Code to Ab-Initio graphs
+Created generic testing graphs to read data from SAS, Ms Access and perform a field level comparison with Ab Initio Outputs
+Created generic XFRs to transform common data elements that can be used across the applications
+Developed and supported the extraction, transformation and load process (ETL) for a Data Warehouse from their Benchmark systems using Ab Initio
+Developed number of Ab Initio Graphs based on business requirements using various Ab Initio Components such as Partition by Key, reformat, rollup, join, scan, normalize, gather, Broadcast, merge etc.
+Implemented Lookup’s, lookup local, in-Memory Joins and rollup’s to speed up various Ab Initio Graphs.
+Design Documentation for the developed graphs.
+Created UNIX shell scripts to automate and schedule the copy tasks.
+Code promotion though EME and using AutoSys for scheduling the jobs
+
+Environment: Ab Initio, SAS, Teradata, SQL Server, MS Access, Microsoft Excel 

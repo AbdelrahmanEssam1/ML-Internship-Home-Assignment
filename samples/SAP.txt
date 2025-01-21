@@ -1,0 +1,157 @@
+
+
+SUMMARY
+
+Around 9 Years of Exp including 8+ years in SAP CRM
+Extensive experience in business process design and configuration related to SAP CRM Sales, Marketing, Service, Web UI, Interaction Center(CIC)
+Expertise includes the analysis, mapping and implementation of User requirements, Blueprinting, Knowledge Transfer & User
+Experienced in all stages of ASAP Methodology &System Development Lifecycle(SDLC)from business process improvement, requirements gathering, design, construction, testing, implementation, installation, documentation, User and support
+Extensive experience on CRM 5.0, CRM 2007, 7.0, 7.0 EhP1 & EhP2
+Extensive experience on ABAP, Workflow, BSP Components, EEWB, bADI’s
+Experience configuring Transaction Types, Organization Data Determination, Partner Determination, Status Profile, Action Profile, Activities, Territory Management, Pricing, Copy Controls, Product Master, Interactive Reporting.
+Sales Functional Areas: SFA, PPM, Sales Order Management, Opportunity Management, Lead management, Account Management, Trade, Activity Management, Contract Management, Rebate Processing, Visit Management, Special Functions, E - Commerce (ISA)
+Pricing Procedures: setup Internet Pricing and Configurator (IPC), maintain Condition Records and access sequences for billing and shipping scenarios.
+Marketing Functional Areas: Market Planning along with Campaign Management & Execution and Automation, External List Management(ELM), Segmentation, Personalized forms, Product Proposals and Lead Management
+Service Functional Areas: Installed base configuration (IBASE), Service Agreements, Service Contracts & Plans, Service Order Management, Case Management, Complaint & Returns Management, In-house repair and Warranty claims.
+Configuring WEB UI, defining roles & PFCG role assignment, navigation bars, defining logical links, work center link groups, work centers, and direct link groups.
+Good understanding of Business Object Layer (BOL) and Generic Interaction layer (GenIL).
+Configuring Interaction Center: Agent & Manager Functions and Agent Inbox, Transaction launcher, Call list management, Customer fact sheet, Navigation bar settings, Surveys, ERMS(Email Response Management System), Rule Modeling, Avaya & BCM Integration.
+Experience setting up BCM 7 with SAP CRM 7.0 EHP1 for Contact Management, CTI for Inbound/Outbound Contact Center & Automated Services(IVR)
+Knowledge in Middleware including setting up RFC, Sites, Publications for CRM & ECC
+Experience in SAP CRM 7 Security for Configuring Authorizations, Security Roles, User Maintenance, Access Rights, Organizational assignment & Relationships, Role Inheritance.
+Experience with RICEFW in order to make changes to the standard SAP system.
+Exposure working with BDocs, Idocs, EDI & ALE for data exchange
+Acquainted with NetWeaver Process Integration (PI) and SAP Exchange Infrastructure (XI)
+Experience working with Business Server Pages (BSP), Java Server Pages (JSP)
+Proficient in tracing requirements, designing test cases, execution and defect management.
+Experience developing SAP End User Material including, Outlines, Power Point slides, Exercises & Assessments, Trainers Guide, Quick Guides
+Excellent communication, people management, team building, presentation, facilitation techniques, motivation & leadership skills.
+
+TECHNICAL SKILLS
+SAP:  CRM 5.0/6.0/7.0/7.01 , ECC 6.0, SAP R/3, GRC, Solution Manager, CIC, IPC, CRM2007 WebUI, Workflow, LSMW, BDC, BAPI, ALE, EDI, Data Dictionary, Conversions, Web AS, BADI, Interfaces, User exits, Debugging
+GUI Tools:  VB 5.0/6.0, SAP GUI
+Web Technologies:  JavaScript, VB Script, ASP, IIS, HTML, XML, XHTML, PHP
+RDBMS:  SQL Server 2000, MS Access, Oracle 8.0/9.0/10g/11i
+Testing Tools:  HP(Mercury) Quality Center, Test Director, QTP, LoadRunner, WinRunner
+Languages:  ABAP/4, Visual Basic, PL/SQL, SQL, C, C++, C#, JAVA, XML
+Microsoft Office Applications:  Access, Power Point, Word, Excel, Visio, Project, OneNote
+Operating Systems:  Windows NT, Windows 95/98/2K,2K3,2K8, Windows 7, Unix, Linux
+PROFESSIONAL EXPERIENCE
+Confidential, Morrisville, NC
+Environment: SAP CRM 7.0 EhP3, ECC 6.0
+SAP CRM OTC Architect
+Responsibilities:
+
+Brought in Post Go Live due to Issues & full assessment of CRM Implementation to resolve issues and improve ROI.
+Spent time with business users to understand and evaluate the client’s business processes as well as assessing the implemented SAP CRM processes and suggested improvements.
+Reviewed entire OTC process from CRM lean order to delivery. Identified issues related to CRM and Vistex.
+Reviewed Lean Order process, and identified main issue for client as ITS based transaction launcher. Provided solution to transaction launch direct SAP GUI from IC & WEBUI as well as identifying dependencies.
+Conducted reporting workshops to help design reports as requested by business, including once & done, and incident tracking.
+Developed new Interaction Record Screen Layout to minimize agent spent time on IR, and redesigned IC Toolbar, Account overview and reduced total time spent by agent per interaction.
+Assessed the current implementation of Emails & Faxes utilizing Avaya Workstation for FIFO push as well as half implemented SAP CRM ERMS approach. Advised on proper approach for single point of maintenance for emails & faxes to reduce agent spent time per interaction.
+Review security roles & built Middleware monitoring roles, and well as aiding in creation of composite roles from single roles for assignment to end users.
+Worked with basis on review of architecture and infrastructure, and well as advising on scaling, load balancing, and local machine browser setup.
+Review and identified issues. Trained the trainer to resolve issues, and lower the total number of issues faced as well as preventing accidental Interaction records.
+Provided Client with strategic roadmap for contact center including IVR, CTI, Workforce management, customer self service. Utilizing both SAP BCM(Contact Center, CC) as well as third party products.
+
+Confidential, NJ 
+Environment: SAP CRM 7.0 & SAP CRM 2007 with eCommerce, ECC 6.0 IS-Retail
+SAP CRM Lead
+Responsibilities:
+
+Brought in to implement ERMS functionality into the SAP CRM Environment for the contact center for all of Mars Retail Group.
+Conducted workshops with business users evaluated the client’s business processes and gathered the client’s requirements & provided estimates.
+Conducted a review of the SAP CRM Environment and suggested improvements.
+Designed new ERMS strategy to for the inbound of processing of Email for the contact center along with business process changes to improve productivity.
+Redesigned entire Org Model and set up escalation processes for Contact Center
+Redesigned Security Roles and New Security roles for Email & Org data as well as UIU components for newly deployed components.
+Configured existing business roles to add in Email & Deployed IC Manager Role with added functionality of Org Model Maintenance.
+Improved Navigation Bar, and add in Recent Edits as well as removing unnecessary links for better user experience.
+Trained Business Users & General Support for Go Live.
+
+Confidential 
+Environment: SAP CRM 7.0 EhP1 & EhP2 & EhP3, ECC 6.0 & HCM
+SAP CRM Lead
+Responsibilities:
+
+Worked on a Global Design strategy for all design decisions for multi country roll outs.
+Conducted workshops with business users evaluated the client’s business processes and gathered the client’s requirements & provided estimates.
+Worked with team on generating blueprints for the project based on requirements.
+Designed & conducted development of New HR ALE feed to bring employee master data into CRM & schedule daily jobs from SAP HCM.
+Blueprinting & design analysis of a SAP CRM based EIC for Shared Services (SSF)
+Worked on Requirements Gathering & Design Analysis for OTC Service Call Centers
+Worked on Evaluation of Avaya IC / SAP BCM / Genesys G+ Adapter for Global Call Center Communications integration into CRM
+Worked on Implementing Cloud for Customer (SAP CRM Cloud C4C) Pilot for one division
+Worked on organizational model design & maintenance including security roles.
+Designed & Implemented Territory Design - from Hierarchy, Ranges, Org Model Dependencies, rule builder & policy setup along with custom attributes.
+Designed & Implemented external Surveys with ERMS for inbound processing.
+Designed programs to support territory maintenance of hundreds of thousands of rules.
+Designed territory management to work with SAP CRM Sales(v2.1) & SAP CRM Sales Manager Mobile (v2.5) apps.
+Created new security roles for end user needs as well as support staff along with GRC mapping for Firefighter (super user) access control as well as end user process role mappings.
+Worked on implementing SAP JAM for micro blogging for end users.
+Worked on upgrading EhP1 to EhP3 for SAP CRM 7.0
+Conducted coordination to utilize offshore resources for Technical development.
+Involved in UAT & Material creation to setup new processes as well final End User .
+Provided Production Support after initial go live & used HPSM & Remedy ITIL for incident/ticket management.
+
+Confidential, NY 
+Environment: SAP CRM 7.0, ECC 6.0 & HCM (Remote Support)
+SAP CRM Architect
+Responsibilities:
+
+Assessed, Designed & carrying out major Territory Realignment involving changes to the hierarchy structure & mobile impacts with old .NET mobile solution with a CDB.
+Assessed impacts from HCM Employee data due to territory & org structure changes.
+Worked with BW Team to ensure data extraction is successful
+Aided in creating & executing recall procedure - first for client in over 7 years.
+Fixed WebUI enhancements due to issues.
+Worked on return variance by utilizing case management in CRM.
+Aided in client on new strategy for salesforce integration.
+Conducted workshops with business users evaluated the client’s business processes.
+Created/Updated documentation for changes made to environments.
+
+Confidential, Northbrook, IL 
+Environment: SAP CRM 7.0 EhP1, ECC 6.0(HCM)
+SAP CRM Lead
+Responsibilities:
+
+Conducted workshops with business users evaluated the client’s business processes and gathered the client’s requirements & provided estimates.
+Worked with team on generating blueprints for the project based on requirements.
+Provided Production Support after initial go live & used HPSM & ServiceNow ITIL for incident/ticket management.
+Utilized ALE/IDOC to bring employee master data into CRM & schedule daily jobs from SAP HCM.
+Utilized the SAP SSF Shared Service Framework for the availability of HR data within CRM.
+Configured organizational model for Agents, Manager, Super user, Analytics & IBM Back office.
+Worked on integrating CRM with the Avaya telephony system with Avaya IC Connector, Avaya Workforce Management System, Versey & TIBCO IVR for CTI
+Configured Email Response Management System(ERMS), setup email profiles & email integration with exchange server team along with process modeling & email templates(mail forms)
+Implemented Multiple Sessions to improve productivity for Call Center along with proper integration with Avaya CTI.
+Created new authorization(PFCG) & security roles for end user needs as well as support staff
+Utilized SAP PI for EDMS to send/retrieve attachments from Document Repository.
+Worked on Implementing Transaction Launcher, Customer Fact Sheet, Agent Inbox, Knowledge Search, Interaction Records, Service Requests, Tasks
+Worked on setting up Interactive Reports, Utility Reports & BI reports and configured them to be accessed under Analytics role.
+Conducted coordination to utilize offshore resources for Functional, Integration & Regression Testing along with test case generation & approvals.
+Involved in UAT & Material creation to setup new processes inside of the call center as well final End User .
+
+Confidential 
+Environment: SAP CRM 7.0
+SAP CRM Consultant 
+Responsibilities:
+
+Participated in workshops with business users evaluated the client’s business processes and gathered the client’s requirements.
+Worked with team on generating blueprints for the project based on requirements.
+Worked with middleware consultant for mapping and replication of master and transaction data from ECC into CRM.
+Configured to Business Partner roles such as Sold-to partners, prospective customers and Contact partners and also setup up number ranges for them in the configuration to match the ECC system.
+Setup Sales Force Automation from Lead Management to Opportunity management to finally Sales Cycle.
+Setup Pipeline Performance Management (PPM) such as assigning Analysis Stages,
+Indexation Clauses, Activating Services, Authorization Profiles, Organizational Model and Internet Graphics Server.
+Configured territory management, assigned BP’s into positions.
+Configured system for Sales order Management as per BRD.
+Worked with technical consultant to implement a WSDL from Fedex to calculate freight costs while generating a sales order.
+Customized and configured Marketing in the areas of business partner segmentation and market planning, along with campaigns and camping elements.
+Updated Security Roles for External List management and Marketing attributes.
+Setup Campaign automation / execution - Personalized Emails.
+Wrote documentation for marketing personnel to utilize the External List Management using a delimited text file.
+Configured the system for Activity management, Opportunity management, Quotation management as per business needs.
+Coordinated the central document repository effort for the project.
+Utilized HP Quality Center for test requirements, test cases, and test execution, and defect tracking.
+Carried out testing for various conversion & data migration, specifically master data.
+Performed integration and user acceptance testing to uncover any issues and documented them.
+Generated BPP’s and material for end users.
