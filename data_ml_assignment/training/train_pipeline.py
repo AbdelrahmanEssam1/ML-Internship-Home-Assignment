@@ -11,6 +11,7 @@ from data_ml_assignment.constants import (
 )
 from data_ml_assignment.models.naive_bayes_model import NaiveBayesModel
 from data_ml_assignment.models.svc_model import SVCModel
+from data_ml_assignment.models.xgbc_model import XGBCModel
 from data_ml_assignment.utils.plot_utils import PlotUtils
 
 
@@ -28,7 +29,7 @@ class TrainingPipeline:
         self.model = None
 
     def train(self, serialize: bool = True, model_name: str = "model"):
-        self.model = SVCModel()
+        self.model = XGBCModel()
         self.model.fit(self.x_train, self.y_train)
 
         model_path = MODELS_PATH / f"{model_name}.joblib"
@@ -47,17 +48,13 @@ class TrainingPipeline:
         plt.rcParams["figure.figsize"] = (14, 10)
 
         PlotUtils.plot_confusion_matrix(
-            cm, classes=list(LABELS_MAP.values()), title="Support Vector Machine"
+            cm, classes=list(LABELS_MAP.values()), title="XGBoost Classifier"
         )
-
-        plot_path = REPORTS_PATH / f"{plot_name}.png"
-        plt.savefig(plot_path, bbox_inches="tight")
-        plt.show()
+        plt.savefig(REPORTS_PATH / f"{plot_name}.png")
 
 
 if __name__ == "__main__":
     tp = TrainingPipeline()
     tp.train(serialize=True)
-    accuracy, f1_score = tp.get_model_perfomance()
-    tp.render_confusion_matrix()
-    print(f"ACCURACY = {accuracy}, F1 SCORE = {f1_score}")
+    accuracy, f1 = tp.get_model_perfomance()
+    print(f"ACCURACY = {accuracy}, F1 SCORE = {f1}")
